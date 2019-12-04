@@ -1,0 +1,38 @@
+.goods {
+    margin: 0 40px;
+    margin-top: 1.5em;
+	
+}
+
+.all-goods {
+	display: flex;
+ 	flex-flow: row wrap;
+	margin-left: 9vw;
+}
+
+.goods {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
+	width: 450px;
+	height: 400px;
+	margin-top: 0em;
+}
+
+.goods span {
+    color: #000;
+    margin-top: 10px;
+}
+
+.goods .price {
+    color: rgba(0, 0, 0, .5);
+}
+
+.goods .name {
+    text-align: center;
+}
+main {
+	height: 88.6vh;
+}
+
