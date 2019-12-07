@@ -1,0 +1,6 @@
+        </div>
+        <footer>
+            <p>Copyright &copy 2019 tooEasy shop</p>
+        </footer>
+    </body>
+</html>
