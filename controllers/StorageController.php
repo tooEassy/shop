@@ -1,20 +1,36 @@
 <?php
 include_once(ROOT.'/models/Storage.php');
+include_once(ROOT.'/models/Session.php');
 
 class StorageController {
     public function get_products_list()
     {
-        $goods = Storage::get_products_list();
-        if($goods){
-            include_once(ROOT.'/views/includes/header.php');
-            include_once(ROOT.'/views/main/main.php');
-            include_once(ROOT.'/views/includes/footer.php');
+        try{
+            Session::start();
+        } catch (sessionStarted $e) {
+            $catch = $e->getMessage();
+        }
+
+        if(!$catch) {
+            try {
+                $goods = Storage::get_products_list();
+                $userEmail = Session::get('email');
+            } catch(sessionGetNotStarted $e) {
+                $catch = $e->getMessage();
+            }
+
+            if(!$catch){
+                if($userEmail) include_once(ROOT.'/views/includes/loggedHeader.php');
+                else include_once(ROOT.'/views/includes/header.php');
+                include_once(ROOT.'/views/main/main.php');
+                include_once(ROOT.'/views/includes/footer.php');
+            }
         }
     }
 
     public function get_good($name) {
         try {
-            $goods = Storage::get_good($name);
+            Storage::get_good($name);
         } catch (No_good $e) {
             echo $e->getMessage();
         }

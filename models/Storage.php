@@ -7,8 +7,7 @@ class Storage{
         return include_once (ROOT.'/storage.php');
     }
 
-
-    static function get_good($name) {
+    public static function get_good($name) {
         $goods = include_once(ROOT.'/storage.php');
         foreach ($goods as $key => $good) {
             if ($good['id'] == $name) {

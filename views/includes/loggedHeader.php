@@ -16,8 +16,8 @@
                 <a href="#">tooEasy logo</a>
             </div>
             <div class="sign">
-                <a href="signin">Sign in</a>
-                <a href="signup">Sign up</a>
+                <p>Hey, <?php echo $userEmail ?></p>
+                <a href="/logout">Log out</a>
             </div>
         </nav>
     </header>
