@@ -34,15 +34,15 @@ class AuthorizationController{
                 }
             }
         } catch (wrongEmail $e){
-            echo $e->getMessage();
+            $wrongEmail = $e->getMessage();
         } catch (wrongPassword $e){
-            echo $e->getMessage();
+            $wrongPassword = $e->getMessage();
         } catch (wrongInfo $e){
-            echo $e->getMessage();
+            $wrongInfo = $e->getMessage();
         }
         if(!$success) {
-            include_once (ROOT.'/views/main/login.php');
             include_once(ROOT.'/views/includes/header.php');
+            include_once (ROOT.'/views/main/login.php');
         }
         include_once(ROOT.'/views/includes/footer.php');
     }

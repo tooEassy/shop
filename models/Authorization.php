@@ -12,7 +12,7 @@ class Authorization{
     }
 
     public static function getEmail(){
-        return 'someEmail';
+        return 'some@gmail.com';
     }
 
     public static function getPassword(){
