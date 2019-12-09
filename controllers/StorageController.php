@@ -30,13 +30,25 @@ class StorageController {
 
     public function get_good($name) {
         try {
-            Storage::get_good($name);
-        } catch (No_good $e) {
-            echo $e->getMessage();
+            Session::start();
+        } catch (sessionStarted $e) {
+            $catch = $e->getMessage();
         }
 
-        include_once(ROOT.'/views/includes/header.php');
-        include_once(ROOT.'/views/main/main.php');
-        include_once(ROOT.'/views/includes/footer.php');
+        if(!$catch){
+            try {
+                $goods = Storage::get_good($name);
+                $userEmail = Session::get('email');
+            } catch (No_good $e) {
+                $catch = $e->getMessage();
+            }
+
+            if(!$catch){
+                if($userEmail) include_once (ROOT.'/views/includes/loggedHeader.php');
+                else include_once(ROOT.'/views/includes/header.php');
+                include_once(ROOT.'/views/main/main.php');
+                include_once(ROOT.'/views/includes/footer.php');
+            }
+        }
     }
 }
