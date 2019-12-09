@@ -69,3 +69,7 @@ main {
     border: none;
     color: #696361;
 }
+.loginForm span {
+    text-align: center;
+    color: #ca1a1a;
+}
