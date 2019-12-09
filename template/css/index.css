@@ -37,3 +37,35 @@ main {
     height: 88.6vh;
 }
 
+.loginMain {
+    background: #ceefff4f;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.loginForm {
+    display: flex;
+    flex-direction: column;
+}
+
+.loginForm input:first-child,
+.loginForm input:nth-child(2) {
+    height: 35px;
+    width: 300px;
+    border: none;
+    border-radius: 6px;
+    text-align: center;
+    margin-bottom: 8px;
+    background: #d4d4d4;
+}
+
+.loginForm input:last-child {
+    width: 130px;
+    height: 22px;
+    margin: 0 auto;
+    background: #0872944f;
+    border-radius: 4.5px;
+    border: none;
+    color: #696361;
+}

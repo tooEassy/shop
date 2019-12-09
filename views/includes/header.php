@@ -13,10 +13,10 @@
     <header>
         <nav class="header-menu">
             <div class="logo">
-                <a href="#">tooEasy logo</a>
+                <a href="/">tooEasy logo</a>
             </div>
             <div class="sign">
-                <a href="signin">Sign in</a>
+                <a href="/signin">Sign in</a>
                 <a href="signup">Sign up</a>
             </div>
         </nav>

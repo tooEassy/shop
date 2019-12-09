@@ -2,7 +2,7 @@
     <div class="all-goods">
         <?php
          foreach($goods as $name => $val): ?>
-            <a href="#" class="goods">
+            <a href= "<?= '/show/'.$val['id']?>" class="goods">
                 <img src="/template/images/<?= $val['photo'] ?>" alt="<?= $name ?>">
                 <span class="name"><?= $name ?></span>
                 <span class="price"><?= $val['price'] ?>₴</span>

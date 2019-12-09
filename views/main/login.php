@@ -1,5 +1,5 @@
-<main>
-    <form action="/enter/" method="post">
+<main class='loginMain'>
+    <form action="/enter/" method="post" class="loginForm">
         <input type="email" placeholder="Email" name="email" required>
         <input type="password" placeholder="Password" name="password" required>
         <input type="submit" name="login">

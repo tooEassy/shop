@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="/template/css/header.css">
+    <link rel="stylesheet" href="/template/css/loggedHeader.css">
     <link rel="stylesheet" href="/template/css/main.css">
     <link rel="stylesheet" href="/template/css/index.css">
     <link rel="stylesheet" href="/template/css/footer.css">
@@ -13,7 +13,7 @@
     <header>
         <nav class="header-menu">
             <div class="logo">
-                <a href="#">tooEasy logo</a>
+                <a href="/">tooEasy logo</a>
             </div>
             <div class="sign">
                 <p>Hey, <?php echo $userEmail ?></p>
