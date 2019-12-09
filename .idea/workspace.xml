@@ -34,6 +34,11 @@
           <mapping local-root="$PROJECT_DIR$" remote-root="/home/vagrant/code/mvc" />
         </path_mappings>
       </server>
+      <server host="mvc.loc" id="9bc4bcda-18f2-4c74-aac2-988fd1385d09" name="mvc.loc (1)" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="/home/vagrant/code/mvc" />
+        </path_mappings>
+      </server>
     </servers>
   </component>
   <component name="ProjectId" id="1UfBYI0GHEGIUOI0jBiSLWIJFGJ" />

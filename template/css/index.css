@@ -1,3 +1,6 @@
+* {
+    transition: .2s;
+}
 
 .all-goods {
     display: flex;
@@ -49,8 +52,8 @@ main {
     flex-direction: column;
 }
 
-.loginForm input:first-child,
-.loginForm input:nth-child(2) {
+.loginForm input:nth-child(2),
+.loginForm input:nth-child(3) {
     height: 35px;
     width: 300px;
     border: none;
@@ -58,18 +61,40 @@ main {
     text-align: center;
     margin-bottom: 8px;
     background: #d4d4d4;
+    box-shadow: -5px 0px 10px -2px grey;
+}
+
+.loginForm input:nth-child(2):focus,
+.loginForm input:nth-child(3):focus {
+    transform: translateX(5px);
 }
 
 .loginForm input:last-child {
-    width: 130px;
-    height: 22px;
+    width: 142px;
+    height: 26px;
     margin: 0 auto;
-    background: #0872944f;
+    background: #2c79a099;
     border-radius: 4.5px;
     border: none;
-    color: #696361;
+    color: #133242;
+    box-shadow: -8px 0px 7px -3px grey;
+    cursor: pointer;
+    transition: .2s;
 }
+
+.loginForm input:last-child:hover {
+    transform: translateX(3px);
+    box-shadow: -9px 0px 8px -4px grey;
+    color: #c0e7fa;
+}
+
 .loginForm span {
     text-align: center;
     color: #ca1a1a;
+    margin-bottom: 5px;
+}
+
+.loginForm h1 {
+    text-align: center;
+    color: #3d7e9e;
 }
