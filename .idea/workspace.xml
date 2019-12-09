@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5319d40-84e0-40e9-90b6-5ae7422b0a8e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/StorageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/StorageController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/AuthorizationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/AuthorizationController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/error_log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/error_log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exceptions.php" beforeDir="false" afterPath="$PROJECT_DIR$/exceptions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/Storage.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/Storage.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/includes/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/includes/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Authorization.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/Authorization.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/main/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/main/login.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
