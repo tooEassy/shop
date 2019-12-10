@@ -21,18 +21,17 @@ class AuthorizationController{
         $userEmail = $_POST['email'];
         $userPassword = $_POST['password'];
         try {
+            Session::start();
+            if ($_SESSION['email']) {
+                include_once(ROOT.'/views/includes/loggedHeader.php');
+                include_once(ROOT.'/views/main/successfulLogin.php');
+            }
             if(Authorization::checkForm($userEmail, $userPassword)) {
-                try{
-                    Session::start();
-                } catch (sessionStarted $e){
-                    $catch = $e->getMessage();
-                }
-                if(!$catch){
                     Session::set('email', $userEmail);
                     include_once(ROOT.'/views/includes/loggedHeader.php');
                     $success = include_once(ROOT.'/views/main/successfulLogin.php');
-                }
             }
+
         } catch (wrongEmail $e){
             $wrongEmail = $e->getMessage();
         } catch (wrongPassword $e){
@@ -45,5 +44,6 @@ class AuthorizationController{
             include_once (ROOT.'/views/main/login.php');
         }
         include_once(ROOT.'/views/includes/footer.php');
+
     }
 }

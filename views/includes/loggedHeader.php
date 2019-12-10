@@ -16,7 +16,7 @@
                 <a href="/">tooEasy logo</a>
             </div>
             <div class="sign">
-                <p>Hey, <?php echo $userEmail ?></p>
+                <p>Hey, <?php echo $_SESSION['email'] ?></p>
                 <a href="/logout">Log out</a>
             </div>
         </nav>
