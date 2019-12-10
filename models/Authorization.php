@@ -16,6 +16,6 @@ class Authorization{
     }
 
     public static function getPassword(){
-        return 'somePassword';
+        return 'pas';
     }
 }

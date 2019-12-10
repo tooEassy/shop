@@ -5,5 +5,5 @@
         'signin' => 'authorization/showForm',
         'enter' => 'authorization/checkForm',
         'logout' => 'user/logout',
- //       '/enter/logout' => 'authorization/checkForm',
+ //     '/enter/logout' => 'authorization/checkForm',
     );

@@ -1,4 +1,6 @@
 <?php
+
+include_once (ROOT.'/models/Session.php');
 class Router
 {
     private $routes;
@@ -26,6 +28,7 @@ class Router
             if (preg_match("~$uriPattern~", $uri)) {
 
 //                echo $path.' ';
+                $uri = Session::signBlock($uri);
                 $internalRoute = preg_replace("~$uriPattern~", $path, $uri);
                 $segments = explode('/', $internalRoute);
 //                foreach ($segments as $one){
