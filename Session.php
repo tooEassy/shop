@@ -1,5 +1,5 @@
 <?php
-include_once ('exceptions.php');
+include_once('exceptions.php');
 
 class Session {
 

@@ -1,6 +1,6 @@
 <?php
-include_once(ROOT.'/models/Storage.php');
-include_once(ROOT.'/models/Session.php');
+include_once(ROOT . '/models/Storage.php');
+include_once(ROOT . '/Session.php');
 
 class StorageController {
     public function get_products_list()
