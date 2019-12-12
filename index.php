@@ -1,7 +1,8 @@
 <?php
 
 define('ROOT', dirname(__FILE__));
-require_once (ROOT.'/components/Router.php');
+require_once (ROOT.'/src/components/Router.php');
+use Router\Router;
 
 set_error_handler('error_handler');
 function error_handler($errno, $errstr, $errfile, $errline) {
@@ -11,6 +12,7 @@ function error_handler($errno, $errstr, $errfile, $errline) {
     fwrite($f, $err);
     fclose($f);
 }
+
 
 $routes = new Router();
 $routes->run();

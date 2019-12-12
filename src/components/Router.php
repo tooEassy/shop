@@ -1,6 +1,6 @@
 <?php
+    include_once (ROOT . '/src/Session.php');
 
-include_once(ROOT .'/Session.php');
 class Router
 {
     private $routes;
@@ -44,7 +44,7 @@ class Router
 //                echo $controllerName;
                 $actionName =array_shift($segments);
 
-                $controllerFile = ROOT . '/controllers/' . $controllerName . '.php';
+                $controllerFile = ROOT . '/src/controllers/' . $controllerName . '.php';
                 $parameters = $segments;
                 if (file_exists($controllerFile)) {
                     include_once($controllerFile);

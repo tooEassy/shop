@@ -1,6 +1,6 @@
-<?php namespace auth;
-include_once(ROOT.'/models/Authorization.php');
-include_once(ROOT . '/Session.php');
+<?php
+include_once(ROOT.'/src/models/Authorization.php');
+include_once(ROOT . '/src/Session.php');
 
 class AuthorizationController{
 
