@@ -4466,3 +4466,350 @@
 [2019-12-10 20:29:09]:  Undefined variable: success in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 42
 [2019-12-10 20:29:09]:  Undefined variable: wrongEmail in /home/vagrant/code/mvc/views/main/login.php on line 6
 [2019-12-10 20:29:09]:  Undefined variable: wrongPassword in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-10 20:42:59]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listestorage' in /home/vagrant/code/mvc/components/Router.php on line 56
+[2019-12-10 20:42:59]:  Undefined index: email in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 21
+[2019-12-10 20:42:59]:  Undefined index: password in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 22
+[2019-12-10 20:42:59]:  Undefined variable: success in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 42
+[2019-12-10 20:42:59]:  Undefined variable: wrongEmail in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-10 20:42:59]:  Undefined variable: wrongPassword in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-10 20:43:01]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 14
+[2019-12-10 20:43:01]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 22
+[2019-12-10 20:43:02]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listsstorage' in /home/vagrant/code/mvc/components/Router.php on line 56
+[2019-12-10 20:43:02]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 38
+[2019-12-10 20:43:02]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 46
+[2019-12-10 20:43:03]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 14
+[2019-12-10 20:43:03]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 22
+[2019-12-10 20:43:06]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listlstorage' in /home/vagrant/code/mvc/components/Router.php on line 56
+[2019-12-10 20:43:06]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/UserController.php on line 13
+[2019-12-10 20:43:06]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/UserController.php on line 20
+[2019-12-10 20:43:06]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 14
+[2019-12-10 20:43:06]:  Undefined index: email in /home/vagrant/code/mvc/models/Session.php on line 35
+[2019-12-10 20:43:06]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 22
+[2019-12-10 20:43:08]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listsstorage' in /home/vagrant/code/mvc/components/Router.php on line 56
+[2019-12-10 20:43:08]:  Undefined variable: wrongInfo in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-10 20:43:08]:  Undefined variable: wrongEmail in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-10 20:43:08]:  Undefined variable: wrongPassword in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-10 20:43:12]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listestorage' in /home/vagrant/code/mvc/components/Router.php on line 56
+[2019-12-10 20:43:12]:  Undefined index: email in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 25
+[2019-12-10 20:43:14]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listestorage' in /home/vagrant/code/mvc/components/Router.php on line 56
+[2019-12-10 20:43:14]:  Undefined index: email in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 21
+[2019-12-10 20:43:14]:  Undefined index: password in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 22
+[2019-12-10 20:43:14]:  Undefined variable: success in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 42
+[2019-12-10 20:43:14]:  Undefined variable: wrongEmail in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-10 20:43:14]:  Undefined variable: wrongPassword in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-10 20:43:16]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 14
+[2019-12-10 20:43:16]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 22
+[2019-12-10 20:45:43]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 14
+[2019-12-10 20:45:43]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 22
+[2019-12-10 20:45:44]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 14
+[2019-12-10 20:45:44]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 22
+[2019-12-10 20:45:44]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listlstorage' in /home/vagrant/code/mvc/components/Router.php on line 56
+[2019-12-10 20:45:44]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/UserController.php on line 13
+[2019-12-10 20:45:44]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/UserController.php on line 20
+[2019-12-10 20:45:45]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 14
+[2019-12-10 20:45:45]:  Undefined index: email in /home/vagrant/code/mvc/Session.php on line 35
+[2019-12-10 20:45:45]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 22
+[2019-12-10 20:45:45]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listsstorage' in /home/vagrant/code/mvc/components/Router.php on line 56
+[2019-12-10 20:45:45]:  Undefined variable: wrongInfo in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-10 20:45:45]:  Undefined variable: wrongEmail in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-10 20:45:45]:  Undefined variable: wrongPassword in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-10 20:45:48]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listestorage' in /home/vagrant/code/mvc/components/Router.php on line 56
+[2019-12-10 20:45:48]:  Undefined index: email in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 25
+[2019-12-10 20:45:50]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listestorage' in /home/vagrant/code/mvc/components/Router.php on line 56
+[2019-12-10 20:45:50]:  Undefined index: email in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 21
+[2019-12-10 20:45:50]:  Undefined index: password in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 22
+[2019-12-10 20:45:50]:  Undefined variable: success in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 42
+[2019-12-10 20:45:50]:  Undefined variable: wrongEmail in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-10 20:45:50]:  Undefined variable: wrongPassword in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-10 20:45:53]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 14
+[2019-12-10 20:45:53]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 22
+[2019-12-10 20:45:54]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listsstorage' in /home/vagrant/code/mvc/components/Router.php on line 56
+[2019-12-10 20:45:54]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 38
+[2019-12-10 20:45:54]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 46
+[2019-12-10 20:45:55]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 14
+[2019-12-10 20:45:55]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 22
+[2019-12-10 20:45:56]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listlstorage' in /home/vagrant/code/mvc/components/Router.php on line 56
+[2019-12-10 20:45:56]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/UserController.php on line 13
+[2019-12-10 20:45:56]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/UserController.php on line 20
+[2019-12-10 20:45:56]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 14
+[2019-12-10 20:45:56]:  Undefined index: email in /home/vagrant/code/mvc/Session.php on line 35
+[2019-12-10 20:45:56]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 22
+[2019-12-10 20:45:57]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listsstorage' in /home/vagrant/code/mvc/components/Router.php on line 56
+[2019-12-10 20:45:57]:  Undefined variable: wrongInfo in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-10 20:45:57]:  Undefined variable: wrongEmail in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-10 20:45:57]:  Undefined variable: wrongPassword in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-10 20:46:00]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listestorage' in /home/vagrant/code/mvc/components/Router.php on line 56
+[2019-12-10 20:46:00]:  Undefined index: email in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 25
+[2019-12-10 20:53:58]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 14
+[2019-12-10 20:53:58]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 22
+[2019-12-10 20:54:02]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listsstorage' in /home/vagrant/code/mvc/components/Router.php on line 56
+[2019-12-10 20:54:02]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 38
+[2019-12-10 20:54:02]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 46
+[2019-12-10 20:54:03]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 14
+[2019-12-10 20:54:03]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 22
+[2019-12-10 20:54:03]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 14
+[2019-12-10 20:54:03]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 22
+[2019-12-10 20:54:05]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 14
+[2019-12-10 20:54:05]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 22
+[2019-12-10 20:54:06]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 14
+[2019-12-10 20:54:06]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 22
+[2019-12-10 20:54:07]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listlstorage' in /home/vagrant/code/mvc/components/Router.php on line 56
+[2019-12-10 20:54:07]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/UserController.php on line 13
+[2019-12-10 20:54:07]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/UserController.php on line 20
+[2019-12-10 20:54:07]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 14
+[2019-12-10 20:54:07]:  Undefined index: email in /home/vagrant/code/mvc/Session.php on line 35
+[2019-12-10 20:54:07]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 22
+[2019-12-10 20:54:09]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listsstorage' in /home/vagrant/code/mvc/components/Router.php on line 56
+[2019-12-10 20:54:09]:  Undefined variable: wrongInfo in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-10 20:54:09]:  Undefined variable: wrongEmail in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-10 20:54:09]:  Undefined variable: wrongPassword in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-10 20:54:13]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listestorage' in /home/vagrant/code/mvc/components/Router.php on line 56
+[2019-12-10 20:54:13]:  Undefined index: email in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 25
+[2019-12-10 20:54:19]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 14
+[2019-12-10 20:54:19]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 22
+[2019-12-10 20:54:21]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listsstorage' in /home/vagrant/code/mvc/components/Router.php on line 56
+[2019-12-10 20:54:21]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 38
+[2019-12-10 20:54:21]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 46
+[2019-12-10 20:54:32]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listlstorage' in /home/vagrant/code/mvc/components/Router.php on line 56
+[2019-12-10 20:54:32]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/UserController.php on line 13
+[2019-12-10 20:54:32]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/UserController.php on line 20
+[2019-12-10 20:54:32]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 14
+[2019-12-10 20:54:32]:  Undefined index: email in /home/vagrant/code/mvc/Session.php on line 35
+[2019-12-10 20:54:32]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 22
+[2019-12-10 20:54:42]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listsstorage' in /home/vagrant/code/mvc/components/Router.php on line 56
+[2019-12-10 20:54:42]:  Undefined variable: wrongInfo in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-10 20:54:42]:  Undefined variable: wrongEmail in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-10 20:54:42]:  Undefined variable: wrongPassword in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-10 20:54:54]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listestorage' in /home/vagrant/code/mvc/components/Router.php on line 56
+[2019-12-10 20:54:54]:  Undefined index: email in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 25
+[2019-12-10 20:55:00]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listestorage' in /home/vagrant/code/mvc/components/Router.php on line 56
+[2019-12-10 20:55:00]:  Undefined index: email in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 21
+[2019-12-10 20:55:00]:  Undefined index: password in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 22
+[2019-12-10 20:55:00]:  Undefined variable: success in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 42
+[2019-12-10 20:55:00]:  Undefined variable: wrongEmail in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-10 20:55:00]:  Undefined variable: wrongPassword in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-11 08:59:04]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listestorage' in /home/vagrant/code/mvc/components/Router.php on line 56
+[2019-12-11 08:59:04]:  Undefined index: email in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 21
+[2019-12-11 08:59:04]:  Undefined index: password in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 22
+[2019-12-11 08:59:04]:  Undefined index: email in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 25
+[2019-12-11 08:59:04]:  Undefined variable: success in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 42
+[2019-12-11 08:59:04]:  Undefined variable: wrongEmail in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-11 08:59:04]:  Undefined variable: wrongPassword in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-11 08:59:40]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listestorage' in /home/vagrant/code/mvc/components/Router.php on line 56
+[2019-12-11 08:59:40]:  Undefined index: email in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 21
+[2019-12-11 08:59:40]:  Undefined index: password in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 22
+[2019-12-11 08:59:40]:  Undefined index: email in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 25
+[2019-12-11 08:59:40]:  Undefined variable: success in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 42
+[2019-12-11 08:59:40]:  Undefined variable: wrongEmail in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-11 08:59:40]:  Undefined variable: wrongPassword in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-11 09:01:02]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listestorage' in /home/vagrant/code/mvc/components/Router.php on line 56
+[2019-12-11 09:01:02]:  Undefined index: email in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 21
+[2019-12-11 09:01:02]:  Undefined index: password in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 22
+[2019-12-11 09:01:02]:  Undefined index: email in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 25
+[2019-12-11 09:01:02]:  Undefined variable: success in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 42
+[2019-12-11 09:01:02]:  Undefined variable: wrongEmail in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-11 09:01:02]:  Undefined variable: wrongPassword in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-11 09:01:06]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listestorage' in /home/vagrant/code/mvc/components/Router.php on line 56
+[2019-12-11 09:01:06]:  Undefined index: email in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 25
+[2019-12-11 09:01:06]:  Undefined variable: success in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 42
+[2019-12-11 09:01:06]:  Undefined variable: wrongInfo in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-11 09:01:06]:  Undefined variable: wrongEmail in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-11 09:01:26]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 14
+[2019-12-11 09:01:26]:  Undefined index: email in /home/vagrant/code/mvc/Session.php on line 35
+[2019-12-11 09:01:26]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 22
+[2019-12-11 09:01:28]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 14
+[2019-12-11 09:01:28]:  Undefined index: email in /home/vagrant/code/mvc/Session.php on line 35
+[2019-12-11 09:01:28]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 22
+[2019-12-11 09:01:30]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listsstorage' in /home/vagrant/code/mvc/components/Router.php on line 56
+[2019-12-11 09:01:30]:  Undefined variable: wrongInfo in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-11 09:01:30]:  Undefined variable: wrongEmail in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-11 09:01:30]:  Undefined variable: wrongPassword in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-11 09:01:33]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listestorage' in /home/vagrant/code/mvc/components/Router.php on line 56
+[2019-12-11 09:01:33]:  Undefined index: email in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 25
+[2019-12-11 09:01:34]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listestorage' in /home/vagrant/code/mvc/components/Router.php on line 56
+[2019-12-11 09:01:34]:  Undefined index: email in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 21
+[2019-12-11 09:01:34]:  Undefined index: password in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 22
+[2019-12-11 09:01:34]:  Undefined variable: success in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 42
+[2019-12-11 09:01:34]:  Undefined variable: wrongEmail in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-11 09:01:34]:  Undefined variable: wrongPassword in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-11 09:01:37]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listestorage' in /home/vagrant/code/mvc/components/Router.php on line 56
+[2019-12-11 09:01:37]:  Undefined index: email in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 21
+[2019-12-11 09:01:37]:  Undefined index: password in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 22
+[2019-12-11 09:01:37]:  Undefined variable: success in /home/vagrant/code/mvc/controllers/AuthorizationController.php on line 42
+[2019-12-11 09:01:37]:  Undefined variable: wrongEmail in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-11 09:01:37]:  Undefined variable: wrongPassword in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-11 09:05:08]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 14
+[2019-12-11 09:05:08]:  Undefined variable: catch in /home/vagrant/code/mvc/controllers/StorageController.php on line 22
+[2019-12-12 18:39:43]:  include_once(/src/exceptions.php): failed to open stream: No such file or directory in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:39:43]:  include_once(): Failed opening '/src/exceptions.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:39:43]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 14
+[2019-12-12 18:39:43]:  Undefined index: email in /home/vagrant/code/mvc/src/Session.php on line 35
+[2019-12-12 18:39:43]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 22
+[2019-12-12 18:39:55]:  include_once(/src/exceptions.php): failed to open stream: No such file or directory in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:39:55]:  include_once(): Failed opening '/src/exceptions.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:39:55]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listsstorage' in /home/vagrant/code/mvc/src/components/Router.php on line 56
+[2019-12-12 18:39:55]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 38
+[2019-12-12 18:39:55]:  Undefined index: email in /home/vagrant/code/mvc/src/Session.php on line 35
+[2019-12-12 18:39:55]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 46
+[2019-12-12 18:39:58]:  include_once(/src/exceptions.php): failed to open stream: No such file or directory in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:39:58]:  include_once(): Failed opening '/src/exceptions.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:39:58]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listsstorage' in /home/vagrant/code/mvc/src/components/Router.php on line 56
+[2019-12-12 18:39:58]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 38
+[2019-12-12 18:39:58]:  Undefined index: email in /home/vagrant/code/mvc/src/Session.php on line 35
+[2019-12-12 18:39:58]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 46
+[2019-12-12 18:40:00]:  include_once(/src/exceptions.php): failed to open stream: No such file or directory in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:40:00]:  include_once(): Failed opening '/src/exceptions.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:40:00]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 14
+[2019-12-12 18:40:00]:  Undefined index: email in /home/vagrant/code/mvc/src/Session.php on line 35
+[2019-12-12 18:40:00]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 22
+[2019-12-12 18:40:02]:  include_once(/src/exceptions.php): failed to open stream: No such file or directory in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:40:02]:  include_once(): Failed opening '/src/exceptions.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:40:02]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listsstorage' in /home/vagrant/code/mvc/src/components/Router.php on line 56
+[2019-12-12 18:40:02]:  Undefined variable: wrongInfo in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-12 18:40:02]:  Undefined variable: wrongEmail in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-12 18:40:02]:  Undefined variable: wrongPassword in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-12 18:40:06]:  include_once(/src/exceptions.php): failed to open stream: No such file or directory in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:40:06]:  include_once(): Failed opening '/src/exceptions.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:40:06]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listestorage' in /home/vagrant/code/mvc/src/components/Router.php on line 56
+[2019-12-12 18:40:06]:  Undefined index: email in /home/vagrant/code/mvc/src/controllers/AuthorizationController.php on line 25
+[2019-12-12 18:40:09]:  include_once(/src/exceptions.php): failed to open stream: No such file or directory in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:40:09]:  include_once(): Failed opening '/src/exceptions.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:40:09]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listestorage' in /home/vagrant/code/mvc/src/components/Router.php on line 56
+[2019-12-12 18:40:09]:  Undefined index: email in /home/vagrant/code/mvc/src/controllers/AuthorizationController.php on line 21
+[2019-12-12 18:40:09]:  Undefined index: password in /home/vagrant/code/mvc/src/controllers/AuthorizationController.php on line 22
+[2019-12-12 18:40:12]:  include_once(/src/exceptions.php): failed to open stream: No such file or directory in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:40:12]:  include_once(): Failed opening '/src/exceptions.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:40:12]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 14
+[2019-12-12 18:40:12]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 22
+[2019-12-12 18:40:13]:  include_once(/src/exceptions.php): failed to open stream: No such file or directory in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:40:13]:  include_once(): Failed opening '/src/exceptions.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:40:13]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listsstorage' in /home/vagrant/code/mvc/src/components/Router.php on line 56
+[2019-12-12 18:40:13]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 38
+[2019-12-12 18:40:13]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 46
+[2019-12-12 18:40:14]:  include_once(/src/exceptions.php): failed to open stream: No such file or directory in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:40:14]:  include_once(): Failed opening '/src/exceptions.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:40:14]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 14
+[2019-12-12 18:40:14]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 22
+[2019-12-12 18:40:15]:  include_once(/src/exceptions.php): failed to open stream: No such file or directory in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:40:15]:  include_once(): Failed opening '/src/exceptions.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:40:15]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listlstorage' in /home/vagrant/code/mvc/src/components/Router.php on line 56
+[2019-12-12 18:40:15]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/UserController.php on line 13
+[2019-12-12 18:40:15]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/UserController.php on line 20
+[2019-12-12 18:40:15]:  include_once(/src/exceptions.php): failed to open stream: No such file or directory in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:40:15]:  include_once(): Failed opening '/src/exceptions.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:40:15]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 14
+[2019-12-12 18:40:15]:  Undefined index: email in /home/vagrant/code/mvc/src/Session.php on line 35
+[2019-12-12 18:40:15]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 22
+[2019-12-12 18:40:16]:  include_once(/src/exceptions.php): failed to open stream: No such file or directory in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:40:16]:  include_once(): Failed opening '/src/exceptions.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:40:16]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listsstorage' in /home/vagrant/code/mvc/src/components/Router.php on line 56
+[2019-12-12 18:40:16]:  Undefined variable: wrongInfo in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-12 18:40:16]:  Undefined variable: wrongEmail in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-12 18:40:16]:  Undefined variable: wrongPassword in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-12 18:40:19]:  include_once(/src/exceptions.php): failed to open stream: No such file or directory in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:40:19]:  include_once(): Failed opening '/src/exceptions.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:40:19]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 14
+[2019-12-12 18:40:19]:  Undefined index: email in /home/vagrant/code/mvc/src/Session.php on line 35
+[2019-12-12 18:40:19]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 22
+[2019-12-12 18:41:24]:  include_once(/src/exceptions.php): failed to open stream: No such file or directory in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:41:24]:  include_once(): Failed opening '/src/exceptions.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:41:24]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 14
+[2019-12-12 18:41:24]:  Undefined index: email in /home/vagrant/code/mvc/src/Session.php on line 35
+[2019-12-12 18:41:24]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 22
+[2019-12-12 18:42:12]:  include_once(/src/exceptions.php): failed to open stream: No such file or directory in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:42:12]:  include_once(): Failed opening '/src/exceptions.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:42:12]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 14
+[2019-12-12 18:42:12]:  Undefined index: email in /home/vagrant/code/mvc/src/Session.php on line 35
+[2019-12-12 18:42:12]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 22
+[2019-12-12 18:42:16]:  include_once(/src/exceptions.php): failed to open stream: No such file or directory in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:42:16]:  include_once(): Failed opening '/src/exceptions.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:42:16]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listsstorage' in /home/vagrant/code/mvc/src/components/Router.php on line 56
+[2019-12-12 18:42:16]:  Undefined variable: wrongInfo in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-12 18:42:16]:  Undefined variable: wrongEmail in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-12 18:42:16]:  Undefined variable: wrongPassword in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-12 18:42:21]:  include_once(/src/exceptions.php): failed to open stream: No such file or directory in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:42:21]:  include_once(): Failed opening '/src/exceptions.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:42:21]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listestorage' in /home/vagrant/code/mvc/src/components/Router.php on line 56
+[2019-12-12 18:42:21]:  Undefined index: email in /home/vagrant/code/mvc/src/controllers/AuthorizationController.php on line 25
+[2019-12-12 18:42:21]:  Undefined variable: success in /home/vagrant/code/mvc/src/controllers/AuthorizationController.php on line 42
+[2019-12-12 18:42:21]:  Undefined variable: wrongInfo in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-12 18:42:21]:  Undefined variable: wrongEmail in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-12 18:42:24]:  include_once(/src/exceptions.php): failed to open stream: No such file or directory in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:42:24]:  include_once(): Failed opening '/src/exceptions.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:42:24]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listestorage' in /home/vagrant/code/mvc/src/components/Router.php on line 56
+[2019-12-12 18:42:24]:  Undefined index: email in /home/vagrant/code/mvc/src/controllers/AuthorizationController.php on line 25
+[2019-12-12 18:42:26]:  include_once(/src/exceptions.php): failed to open stream: No such file or directory in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:42:26]:  include_once(): Failed opening '/src/exceptions.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:42:26]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listestorage' in /home/vagrant/code/mvc/src/components/Router.php on line 56
+[2019-12-12 18:42:26]:  Undefined index: email in /home/vagrant/code/mvc/src/controllers/AuthorizationController.php on line 21
+[2019-12-12 18:42:26]:  Undefined index: password in /home/vagrant/code/mvc/src/controllers/AuthorizationController.php on line 22
+[2019-12-12 18:42:26]:  Undefined variable: success in /home/vagrant/code/mvc/src/controllers/AuthorizationController.php on line 42
+[2019-12-12 18:42:26]:  Undefined variable: wrongEmail in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-12 18:42:26]:  Undefined variable: wrongPassword in /home/vagrant/code/mvc/views/main/login.php on line 6
+[2019-12-12 18:42:28]:  include_once(/src/exceptions.php): failed to open stream: No such file or directory in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:42:28]:  include_once(): Failed opening '/src/exceptions.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:42:28]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 14
+[2019-12-12 18:42:28]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 22
+[2019-12-12 18:42:29]:  include_once(/src/exceptions.php): failed to open stream: No such file or directory in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:42:29]:  include_once(): Failed opening '/src/exceptions.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:42:29]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listsstorage' in /home/vagrant/code/mvc/src/components/Router.php on line 56
+[2019-12-12 18:42:29]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 38
+[2019-12-12 18:42:29]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 46
+[2019-12-12 18:42:29]:  include_once(/src/exceptions.php): failed to open stream: No such file or directory in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:42:29]:  include_once(): Failed opening '/src/exceptions.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:42:29]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listsstorage' in /home/vagrant/code/mvc/src/components/Router.php on line 56
+[2019-12-12 18:42:29]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 38
+[2019-12-12 18:42:29]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 46
+[2019-12-12 18:42:30]:  include_once(/src/exceptions.php): failed to open stream: No such file or directory in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:42:30]:  include_once(): Failed opening '/src/exceptions.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:42:30]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 14
+[2019-12-12 18:42:30]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 22
+[2019-12-12 18:42:31]:  include_once(/src/exceptions.php): failed to open stream: No such file or directory in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:42:31]:  include_once(): Failed opening '/src/exceptions.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:42:31]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listlstorage' in /home/vagrant/code/mvc/src/components/Router.php on line 56
+[2019-12-12 18:42:31]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/UserController.php on line 13
+[2019-12-12 18:42:31]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/UserController.php on line 20
+[2019-12-12 18:42:31]:  include_once(/src/exceptions.php): failed to open stream: No such file or directory in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:42:31]:  include_once(): Failed opening '/src/exceptions.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:42:31]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 14
+[2019-12-12 18:42:31]:  Undefined index: email in /home/vagrant/code/mvc/src/Session.php on line 35
+[2019-12-12 18:42:31]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 22
+[2019-12-12 18:42:33]:  include_once(/src/exceptions.php): failed to open stream: No such file or directory in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:42:33]:  include_once(): Failed opening '/src/exceptions.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:42:33]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 14
+[2019-12-12 18:42:33]:  Undefined index: email in /home/vagrant/code/mvc/src/Session.php on line 35
+[2019-12-12 18:42:33]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 22
+[2019-12-12 18:48:48]:  include_once(/src/exceptions.php): failed to open stream: No such file or directory in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:48:48]:  include_once(): Failed opening '/src/exceptions.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:48:48]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 14
+[2019-12-12 18:48:48]:  Undefined index: email in /home/vagrant/code/mvc/src/Session.php on line 35
+[2019-12-12 18:48:48]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 22
+[2019-12-12 18:48:49]:  include_once(/src/exceptions.php): failed to open stream: No such file or directory in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:48:49]:  include_once(): Failed opening '/src/exceptions.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:48:49]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 14
+[2019-12-12 18:48:49]:  Undefined index: email in /home/vagrant/code/mvc/src/Session.php on line 35
+[2019-12-12 18:48:49]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 22
+[2019-12-12 18:48:51]:  include_once(/src/exceptions.php): failed to open stream: No such file or directory in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:48:51]:  include_once(): Failed opening '/src/exceptions.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:48:51]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listsstorage' in /home/vagrant/code/mvc/src/components/Router.php on line 56
+[2019-12-12 18:48:51]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 38
+[2019-12-12 18:48:51]:  Undefined index: email in /home/vagrant/code/mvc/src/Session.php on line 35
+[2019-12-12 18:48:51]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 46
+[2019-12-12 18:48:54]:  include_once(/src/exceptions.php): failed to open stream: No such file or directory in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:48:54]:  include_once(): Failed opening '/src/exceptions.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:48:54]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 14
+[2019-12-12 18:48:54]:  Undefined index: email in /home/vagrant/code/mvc/src/Session.php on line 35
+[2019-12-12 18:48:54]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 22
+[2019-12-12 18:48:54]:  include_once(/src/exceptions.php): failed to open stream: No such file or directory in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:48:54]:  include_once(): Failed opening '/src/exceptions.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:48:54]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'StorageController' does not have a method 'get_products_listsstorage' in /home/vagrant/code/mvc/src/components/Router.php on line 56
+[2019-12-12 18:49:13]:  include_once(/src/exceptions.php): failed to open stream: No such file or directory in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:49:13]:  include_once(): Failed opening '/src/exceptions.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:49:13]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 14
+[2019-12-12 18:49:13]:  Undefined index: email in /home/vagrant/code/mvc/src/Session.php on line 35
+[2019-12-12 18:49:13]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 22
+[2019-12-12 18:49:16]:  include_once(/src/exceptions.php): failed to open stream: No such file or directory in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:49:16]:  include_once(): Failed opening '/src/exceptions.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/mvc/src/models/Storage.php on line 3
+[2019-12-12 18:49:16]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 14
+[2019-12-12 18:49:16]:  Undefined index: email in /home/vagrant/code/mvc/src/Session.php on line 35
+[2019-12-12 18:49:16]:  Undefined variable: catch in /home/vagrant/code/mvc/src/controllers/StorageController.php on line 22

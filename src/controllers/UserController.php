@@ -1,6 +1,6 @@
 <?php
-include_once(ROOT.'/models/Session.php');
-include_once(ROOT.'/exceptions.php');
+include_once(ROOT .'/src/Session.php');
+include_once(ROOT.'/src/exceptions.php');
 
 class UserController {
     public function logout() {
