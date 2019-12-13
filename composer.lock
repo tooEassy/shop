@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7cef3973a23c1f8ca59ae27de56d684f",
+    "content-hash": "19f0305a8ab3342d9396033c44819905",
     "packages": [
         {
             "name": "doctrine/instantiator",
@@ -1602,6 +1602,40 @@
             "time": "2019-06-13T22:48:21+00:00"
         },
         {
+            "name": "too-easy/fir",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/tooEassy/composer.git",
+                "reference": "ec5297bf2297b4af2b2b390eca5dc35b7c443313"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/tooEassy/composer/zipball/ec5297bf2297b4af2b2b390eca5dc35b7c443313",
+                "reference": "ec5297bf2297b4af2b2b390eca5dc35b7c443313",
+                "shasum": ""
+            },
+            "require": {
+                "monolog/monolog": "^2.0.1",
+                "php": ">=5.4.0"
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "src"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "Artur",
+                    "email": "lavrinovichartur@gmail.com"
+                }
+            ],
+            "description": "first package",
+            "time": "2019-12-13T07:05:21+00:00"
+        },
+        {
             "name": "webmozart/assert",
             "version": "1.6.0",
             "source": {
@@ -1648,12 +1682,54 @@
                 "validate"
             ],
             "time": "2019-11-24T13:36:37+00:00"
+        },
+        {
+            "name": "yidas/codeigniter-psr4-autoload",
+            "version": "2.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/yidas/codeigniter-psr4-autoload.git",
+                "reference": "38da6846d497193bf73f6e511da401156d9aa0db"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/yidas/codeigniter-psr4-autoload/zipball/38da6846d497193bf73f6e511da401156d9aa0db",
+                "reference": "38da6846d497193bf73f6e511da401156d9aa0db",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "src/"
+                ],
+                "psr-4": {
+                    "app\\": "../../../"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "CodeIgniter 3 PSR-4 Autoloader for Application",
+            "homepage": "https://github.com/yidas/codeigniter-psr4-autoload",
+            "keywords": [
+                "PSR-4",
+                "autoload",
+                "autoloader",
+                "codeigniter"
+            ],
+            "time": "2019-07-13T17:24:26+00:00"
         }
     ],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": [],
+    "stability-flags": {
+        "too-easy/fir": 20
+    },
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],

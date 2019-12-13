@@ -1,4 +1,8 @@
 <?php
+namespace src\models;
+use src\wrongEmail;
+use src\wrongPassword;
+use src\wrongInfo;
 
 class Authorization{
 

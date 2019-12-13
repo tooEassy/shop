@@ -1,7 +1,6 @@
 <?php
-
-include_once('/src/exceptions.php');
-
+namespace src\models;
+use src\No_good;
 class Storage{
     public static function get_products_list(){
         return include_once(ROOT . '/data/storage.php');

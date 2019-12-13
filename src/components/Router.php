@@ -1,5 +1,11 @@
 <?php
-    include_once (ROOT . '/src/Session.php');
+namespace src\components;
+    use src\Session;
+
+    use src\controllers\StorageController;
+
+    use src\controllers\AuthorizationController;
+    use src\controllers\UserController;
 
 class Router
 {
@@ -42,6 +48,7 @@ class Router
                 $controllerName = array_shift($segments).'Controller';
                 $controllerName = ucfirst($controllerName);
 //                echo $controllerName;
+                $controllerName = 'src\controllers'."\\".$controllerName;
                 $actionName =array_shift($segments);
 
                 $controllerFile = ROOT . '/src/controllers/' . $controllerName . '.php';
