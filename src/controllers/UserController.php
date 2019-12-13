@@ -1,7 +1,8 @@
 <?php
-include_once(ROOT .'/src/Session.php');
-include_once(ROOT.'/src/exceptions.php');
-
+namespace src\controllers;
+use src\Session;
+use src\sessionStarted;
+use src\sessionDeleteNotStarted;
 class UserController {
     public function logout() {
         try{

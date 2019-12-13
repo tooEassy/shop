@@ -4,17 +4,15 @@
     "type": "project",
     "require": {
         "monolog/monolog": "^2.0",
-        "phpunit/phpunit": "^8.5"
+        "phpunit/phpunit": "^8.5",
+        "too-easy/fir": "dev-master",
+        "yidas/codeigniter-psr4-autoload": "^2.0"
     },
     "authors": [
         {
             "name": "Artur Lavrinovich",
             "email": "lavrinovichartur@gmail.com"
         }
-    ],
-
-    "autoload": {
-       "psr-4": {"\\": "/"}
-   }
-}
+    ]
+    }
 

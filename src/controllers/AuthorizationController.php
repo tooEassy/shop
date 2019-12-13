@@ -1,7 +1,10 @@
 <?php
-include_once(ROOT.'/src/models/Authorization.php');
-include_once(ROOT . '/src/Session.php');
-
+namespace src\controllers;
+use src\models\Authorization;
+use src\Session;
+use src\wrongEmail;
+use src\wrongPassword;
+use src\wrongInfo;
 class AuthorizationController{
 
     public function __construct()

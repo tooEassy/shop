@@ -1,7 +1,11 @@
 <?php
-include_once(ROOT . '/src/models/Storage.php');
-include_once(ROOT . '/src/Session.php');
+namespace src\controllers;
 
+use src\Session;
+use src\models\Storage;
+use src\No_good ;
+use src\sessionStarted;
+use src\sessionGetNotStarted;
 class StorageController {
     public function get_products_list()
     {
