@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5319d40-84e0-40e9-90b6-5ae7422b0a8e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/mvc3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mvc3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/error_log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/error_log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Session.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Router.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Router.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/autoload.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controllers/AuthorizationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/AuthorizationController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controllers/StorageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/StorageController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controllers/UserController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/UserController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exceptions.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/exceptions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/Authorization.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Authorization.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/Storage.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Storage.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
