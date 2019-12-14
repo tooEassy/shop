@@ -5,7 +5,7 @@
     "require": {
         "monolog/monolog": "^2.0",
         "phpunit/phpunit": "^8.5",
-        "too-easy/fir": "dev-master",
+        "too-easy/fir": "v1.0.0",
         "yidas/codeigniter-psr4-autoload": "^2.0"
     },
     "authors": [
@@ -15,4 +15,3 @@
         }
     ]
     }
-
