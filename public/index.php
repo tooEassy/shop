@@ -1,8 +1,8 @@
 <?php
-namespace tooEasy;
+namespace mvc;
 
-define('ROOT', dirname(__FILE__));
-set_error_handler('tooEasy\error_handler');
+define('ROOT', dirname(__DIR__));
+set_error_handler('mvc\error_handler');
 function error_handler($errno, $errstr, $errfile, $errline) {
     $date = date('Y-m-d H:i:s');
     $f = fopen('error_log.txt', 'a');
@@ -25,9 +25,6 @@ use src\components\Router;
 //
 //$new = new My_package('logger_name');
 //$new->hey('my text.');
-
-
-
 
 $routes = new Router();
 $routes->run();
