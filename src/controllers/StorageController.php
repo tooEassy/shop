@@ -1,6 +1,7 @@
 <?php
 namespace src\controllers;
 
+use src\models\Product;
 use src\Session;
 use src\models\Storage;
 use src\No_good ;
@@ -17,7 +18,12 @@ class StorageController {
 
         if(!$catch) {
             try {
-                $goods = Storage::get_products_list();
+                for ($i = 0; $i <= 5; $i++){
+                    $goods = new Product();
+                    $goods -> getById($i);
+                    $productArray[] = $goods;
+                }
+
                 $userEmail = Session::get('email');
             } catch(sessionGetNotStarted $e) {
                 $catch = $e->getMessage();
@@ -41,7 +47,9 @@ class StorageController {
 
         if(!$catch){
             try {
-                $goods = Storage::get_good($name);
+                $goods = new Product();
+                $goods -> getById($name);
+                $productArray[] = $goods;
                 $userEmail = Session::get('email');
             } catch (No_good $e) {
                 $catch = $e->getMessage();

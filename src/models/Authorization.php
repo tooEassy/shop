@@ -3,7 +3,6 @@ namespace src\models;
 use src\wrongEmail;
 use src\wrongPassword;
 use src\wrongInfo;
-
 class Authorization{
 
     public static function checkForm($userEmail, $userPassword){
