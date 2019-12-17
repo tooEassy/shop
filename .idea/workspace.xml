@@ -3,13 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d5319d40-84e0-40e9-90b6-5ae7422b0a8e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/error_log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/error_log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/autoload.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controllers/StorageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/StorageController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/Authorization.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Authorization.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/Storage.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Storage.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/main/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/main/main.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,10 +207,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="278" y="193" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.900@0.0.1440.900" timestamp="1576000695227" />
-    <state x="400" y="93" width="782" height="714" key="find.popup" timestamp="1576576904350">
+    <state x="400" y="93" width="782" height="714" key="find.popup" timestamp="1576577903888">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="400" y="93" width="782" height="714" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1576576904350" />
+    <state x="400" y="93" width="782" height="714" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1576577903888" />
     <state x="385" y="196" key="search.everywhere.popup" timestamp="1576219134940">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
