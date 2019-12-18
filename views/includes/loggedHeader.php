@@ -2,10 +2,10 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="/template/css/loggedHeader.css">
-    <link rel="stylesheet" href="/template/css/main.css">
-    <link rel="stylesheet" href="/template/css/index.css">
-    <link rel="stylesheet" href="/template/css/footer.css">
+    <link rel="stylesheet" href="/css/loggedHeader.css">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="/css/footer.css">
     <title>tooEasy shop</title>
 </head>
 <body>

@@ -18,11 +18,8 @@ use src\components\Router;
 //require_once ('vendor/autoload.php');
 //require_once ('vendor/too-easy/fir/src/Test.php');
 //use Test\First_package;
-//
 //class My_package extends First_package{
-//
 //}
-//
 //$new = new My_package('logger_name');
 //$new->hey('my text.');
 
