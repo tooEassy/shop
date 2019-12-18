@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="/template/css/header.css">
-    <link rel="stylesheet" href="/template/css/main.css">
-    <link rel="stylesheet" href="/template/css/index.css">
-    <link rel="stylesheet" href="/template/css/footer.css">
+    <link rel="stylesheet" type="text/css" href="/css/header.css">
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+    <link rel="stylesheet" type="text/css" href="/css/index.css">
+    <link rel="stylesheet" type="text/css" href="/css/footer.css">
     <title>tooEasy shop</title>
 </head>
 <body>

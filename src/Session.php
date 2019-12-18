@@ -1,5 +1,6 @@
 <?php
 namespace src;
+include (ROOT . '/src/exceptions.php');
 use src\sessionHasName;
 use src\sessionSetNotStarted;
 use src\sessionStarted;
@@ -10,9 +11,6 @@ class Session {
 
     public static function setName($name)
     {
-        if(self::sessionExist()){
-            throw new sessionHasName('Cannot set session name. Session already started.');
-        }
         self::$name = $name;
         session_name($name);
     }
