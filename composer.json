@@ -6,7 +6,10 @@
         "monolog/monolog": "^2.0",
         "phpunit/phpunit": "^8.5",
         "too-easy/fir": "v1.0.0",
-        "yidas/codeigniter-psr4-autoload": "^2.0"
+        "yidas/codeigniter-psr4-autoload": "^2.0",
+        "swiftmailer/swiftmailer": "^6.0",
+        "ext-curl": "^7.4",
+        "mail_package_task/project": "dev-develop"
     },
     "authors": [
         {
