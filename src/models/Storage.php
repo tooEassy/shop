@@ -1,7 +1,11 @@
 <?php
+
 namespace src\models;
+
 use src\No_good;
-class Storage{
+
+class Storage
+{
     public static function get_products_list()
     {
         return include(ROOT . '/data/storage.php');

@@ -42,5 +42,8 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="composer" />
+    <orderEntry type="module" module-name="project" />
+    <orderEntry type="module" module-name="work" />
+    <orderEntry type="module" module-name="eduscrum.tk" />
   </component>
 </module>
