@@ -2,6 +2,7 @@
 
 namespace src\controllers;
 
+use PHPUnit\Util\Log\JSON;
 use src\models\Product;
 use src\Session;
 use src\models\Storage;
@@ -16,18 +17,17 @@ class StorageController
         try {
             Session::start();
         } catch (sessionStarted $e) {
+            $_SESSION['email'] = 'some@gmail.com';
             $catch = $e->getMessage();
         }
 
         if (!$catch) {
             try {
-                for ($i = 0; $i <= 5; $i++) {
-                    $goods = new Product();
-                    $goods->getById($i);
-                    $productArray[] = $goods;
-                }
-
+                $good = new Product();
+                $all = $good->getAll();
                 $userEmail = Session::get('email');
+                var_dump(Session::get('email'));
+                var_dump($_SESSION);
             } catch (sessionGetNotStarted $e) {
                 $catch = $e->getMessage();
             }
@@ -41,6 +41,31 @@ class StorageController
         }
     }
 
+    public function getProguctList()
+    {
+        try {
+            Session::start();
+        } catch (sessionStarted $e) {
+            $catch = $e->getMessage();
+        }
+
+        if (!$catch) {
+            try {
+                $good = new Product();
+                $all = $good->getAll();
+                $userEmail = Session::get('email');
+            } catch (sessionGetNotStarted $e) {
+                $catch = $e->getMessage();
+            }
+
+            if (!$catch) {
+                if ($userEmail) include_once(ROOT . '/views/includes/loggedHeader.php');
+                else include_once(ROOT . '/views/includes/header.php');
+                include_once(ROOT . '/views/main/listProducts.php');
+                include_once(ROOT . '/views/includes/footer.php');
+            }
+        }
+    }
     public function get_good($name)
     {
         try {
@@ -66,5 +91,11 @@ class StorageController
                 include_once(ROOT . '/views/includes/footer.php');
             }
         }
+    }
+    public function cart()
+    {
+        $allCart = new Product();
+        $cart = $allCart->getByName($_POST['data']);
+        echo json_encode($cart);
     }
 }

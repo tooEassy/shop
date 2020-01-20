@@ -27,13 +27,13 @@ class Session {
 
     public static function set($key, $val)
     {
-        if(self::sessionExist())$_SESSION[$key] = $val;
+        if (self::sessionExist()) $_SESSION[$key] = $val;
         else throw new sessionSetNotStarted('Session not started.');
     }
 
     public static function get($key)
     {
-        if(self::sessionExist())return $_SESSION[$key];
+        if (self::sessionExist()) return $_SESSION[$key];
         else throw new sessionSetNotStarted('Session not started.');
     }
 

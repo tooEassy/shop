@@ -3,6 +3,7 @@
 namespace src\controllers;
 
 use src\models\Authorization;
+use src\models\User;
 use src\Session;
 use src\wrongEmail;
 use src\wrongPassword;
@@ -23,6 +24,14 @@ class AuthorizationController
         include_once(ROOT . '/views/includes/footer.php');
     }
 
+    public function create()
+    {
+        $creating = new User();
+        $creating->create();
+        include_once(ROOT . '/views/includes/header.php');
+        include_once(ROOT . '/views/main/login.php');
+        include_once(ROOT . '/views/includes/footer.php');
+    }
     public function checkForm()
     {
         $userEmail = $_POST['email'];
@@ -35,6 +44,7 @@ class AuthorizationController
             }
             if (Authorization::checkForm($userEmail, $userPassword)) {
                 Session::set('email', $userEmail);
+                var_dump($_SESSION);
                 include_once(ROOT . '/views/includes/loggedHeader.php');
                 $success = include_once(ROOT . '/views/main/successfulLogin.php');
             }
@@ -51,6 +61,5 @@ class AuthorizationController
             include_once(ROOT . '/views/main/login.php');
         }
         include_once(ROOT . '/views/includes/footer.php');
-
     }
 }
