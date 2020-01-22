@@ -154,16 +154,31 @@
                                             </form>
                                         </div>
                                         <div id="header-tab-rigister" class="tab-panel">
-                                            <form method="post" class="register form-register">
+                                            <form action="register" method="post" class="register form-register">
                                                 <p class="form-row form-row-wide">
-                                                    <input type="email" placeholder="Email" class="input-text">
+                                                    <label class="text">First name</label>
+                                                    <input placeholder="First name" title="firstName" type="text" class="input-text" name="firstName">
                                                 </p>
                                                 <p class="form-row form-row-wide">
-                                                    <input type="password" class="input-text" placeholder="Password">
+                                                    <label class="text">Last name</label>
+                                                    <input placeholder="Last name" title="lastName" type="text" class="input-text" name="lastName">
+                                                </p>
+                                                <p class="form-row form-row-wide">
+                                                    <label class="text">Username</label>
+                                                    <input placeholder="Username" title="username" type="text" class="input-text" name="username">
+                                                </p>
+                                                <p class="form-row form-row-wide">
+                                                    <label class="text">Your email</label>
+                                                    <input placeholder="Email" title="email" type="email" class="input-text" name="email">
+                                                </p>
+                                                <p class="form-row form-row-wide">
+                                                    <label class="text">Password</label>
+                                                    <input placeholder="Password" title="pass" type="password" class="input-text" name="password">
                                                 </p>
                                                 <p class="form-row">
-                                                    <input type="submit" class="button" value="Register">
+                                                    <input type="submit" class="button" value="Register" name="register">
                                                 </p>
+
                                             </form>
                                         </div>
                                     </div>

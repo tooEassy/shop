@@ -16928,3 +16928,287 @@
 [2020-01-22 14:35:26]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listastorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
 [2020-01-22 14:35:30]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listestorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
 [2020-01-22 14:35:32]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listestorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:14:10]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 23
+[2020-01-22 15:14:10]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:14:10]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:14:10]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:14:10]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:14:10]:  Undefined index: email in /Users/hey/code/tooEasy/src/Session.php on line 36
+[2020-01-22 15:14:10]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 32
+[2020-01-22 15:14:10]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listastorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:14:11]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 23
+[2020-01-22 15:14:11]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:14:11]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:14:11]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:14:11]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:14:11]:  Undefined index: email in /Users/hey/code/tooEasy/src/Session.php on line 36
+[2020-01-22 15:14:11]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 32
+[2020-01-22 15:14:11]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listastorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:14:16]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listestorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:14:26]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listestorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:15:41]:  Undefined variable: wrongInfo in /Users/hey/code/tooEasy/views/main/login.php on line 127
+[2020-01-22 15:15:41]:  Undefined variable: wrongEmail in /Users/hey/code/tooEasy/views/main/login.php on line 127
+[2020-01-22 15:15:41]:  Undefined variable: wrongPassword in /Users/hey/code/tooEasy/views/main/login.php on line 127
+[2020-01-22 15:15:41]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listsstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:15:41]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listastorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:15:44]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 23
+[2020-01-22 15:15:44]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:15:44]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:15:44]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:15:44]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:15:44]:  Undefined index: email in /Users/hey/code/tooEasy/src/Session.php on line 36
+[2020-01-22 15:15:44]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 32
+[2020-01-22 15:15:45]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listastorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:15:46]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 23
+[2020-01-22 15:15:46]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:15:46]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:15:46]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:15:46]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:15:46]:  Undefined index: email in /Users/hey/code/tooEasy/src/Session.php on line 36
+[2020-01-22 15:15:46]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 32
+[2020-01-22 15:15:46]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listastorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:15:54]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 23
+[2020-01-22 15:15:54]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:15:54]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:15:54]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:15:54]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:15:54]:  Undefined index: email in /Users/hey/code/tooEasy/src/Session.php on line 36
+[2020-01-22 15:15:54]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 32
+[2020-01-22 15:20:26]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 23
+[2020-01-22 15:20:26]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:20:26]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:20:26]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:20:26]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:20:26]:  Undefined index: email in /Users/hey/code/tooEasy/src/Session.php on line 36
+[2020-01-22 15:20:26]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 32
+[2020-01-22 15:33:52]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 49
+[2020-01-22 15:33:52]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:33:52]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:33:52]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:33:52]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:33:52]:  Undefined index: email in /Users/hey/code/tooEasy/src/Session.php on line 36
+[2020-01-22 15:33:52]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 58
+[2020-01-22 15:33:52]:  Undefined variable: title in /Users/hey/code/tooEasy/views/main/listProducts.php on line 168
+[2020-01-22 15:33:52]:  Undefined property: src\models\Product::$ in /Users/hey/code/tooEasy/views/main/listProducts.php on line 168
+[2020-01-22 15:33:52]:  Undefined variable: title in /Users/hey/code/tooEasy/views/main/listProducts.php on line 168
+[2020-01-22 15:33:52]:  Undefined property: src\models\Product::$ in /Users/hey/code/tooEasy/views/main/listProducts.php on line 168
+[2020-01-22 15:33:52]:  Undefined variable: title in /Users/hey/code/tooEasy/views/main/listProducts.php on line 168
+[2020-01-22 15:33:52]:  Undefined property: src\models\Product::$ in /Users/hey/code/tooEasy/views/main/listProducts.php on line 168
+[2020-01-22 15:33:52]:  Undefined variable: title in /Users/hey/code/tooEasy/views/main/listProducts.php on line 168
+[2020-01-22 15:33:52]:  Undefined property: src\models\Product::$ in /Users/hey/code/tooEasy/views/main/listProducts.php on line 168
+[2020-01-22 15:33:52]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:33:52]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:33:52]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:33:52]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:33:52]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:33:52]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:33:52]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:33:52]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:33:52]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:33:52]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:33:52]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:33:52]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:33:52]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:33:52]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:33:52]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:33:52]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:33:52]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:33:52]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:33:52]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:33:52]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:33:52]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:33:57]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 23
+[2020-01-22 15:33:57]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:33:57]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:33:57]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:33:57]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:33:57]:  Undefined index: email in /Users/hey/code/tooEasy/src/Session.php on line 36
+[2020-01-22 15:33:57]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 32
+[2020-01-22 15:33:59]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 23
+[2020-01-22 15:33:59]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:33:59]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:33:59]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:33:59]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:33:59]:  Undefined index: email in /Users/hey/code/tooEasy/src/Session.php on line 36
+[2020-01-22 15:33:59]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 32
+[2020-01-22 15:34:19]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listastorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:34:19]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listfstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:34:20]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 23
+[2020-01-22 15:34:20]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:34:20]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:34:20]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:34:20]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:34:20]:  Undefined index: email in /Users/hey/code/tooEasy/src/Session.php on line 36
+[2020-01-22 15:34:20]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 32
+[2020-01-22 15:37:41]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listastorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:38:50]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 23
+[2020-01-22 15:38:50]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:38:50]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:38:50]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:38:50]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:38:50]:  Undefined index: email in /Users/hey/code/tooEasy/src/Session.php on line 36
+[2020-01-22 15:38:50]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 32
+[2020-01-22 15:41:33]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 23
+[2020-01-22 15:41:33]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:41:33]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:41:33]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:41:33]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:41:33]:  Undefined index: email in /Users/hey/code/tooEasy/src/Session.php on line 36
+[2020-01-22 15:41:33]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 32
+[2020-01-22 15:41:43]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 47
+[2020-01-22 15:41:43]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 47
+[2020-01-22 15:41:43]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 47
+[2020-01-22 15:41:43]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 47
+[2020-01-22 15:41:43]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 47
+[2020-01-22 15:41:43]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 47
+[2020-01-22 15:41:43]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listcstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:41:45]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 47
+[2020-01-22 15:41:45]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 47
+[2020-01-22 15:41:45]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 47
+[2020-01-22 15:41:45]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 47
+[2020-01-22 15:41:45]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 47
+[2020-01-22 15:41:45]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 47
+[2020-01-22 15:41:45]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listcstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:43:17]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 23
+[2020-01-22 15:43:17]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:43:17]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:43:17]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:43:17]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:43:17]:  Undefined index: email in /Users/hey/code/tooEasy/src/Session.php on line 36
+[2020-01-22 15:43:17]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 32
+[2020-01-22 15:43:19]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 49
+[2020-01-22 15:43:19]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:43:19]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:43:19]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:43:19]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:43:19]:  Undefined index: email in /Users/hey/code/tooEasy/src/Session.php on line 36
+[2020-01-22 15:43:19]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 58
+[2020-01-22 15:43:19]:  Undefined variable: title in /Users/hey/code/tooEasy/views/main/listProducts.php on line 91
+[2020-01-22 15:43:19]:  Undefined property: src\models\Product::$ in /Users/hey/code/tooEasy/views/main/listProducts.php on line 91
+[2020-01-22 15:43:19]:  Undefined variable: title in /Users/hey/code/tooEasy/views/main/listProducts.php on line 91
+[2020-01-22 15:43:19]:  Undefined property: src\models\Product::$ in /Users/hey/code/tooEasy/views/main/listProducts.php on line 91
+[2020-01-22 15:43:19]:  Undefined variable: title in /Users/hey/code/tooEasy/views/main/listProducts.php on line 91
+[2020-01-22 15:43:19]:  Undefined property: src\models\Product::$ in /Users/hey/code/tooEasy/views/main/listProducts.php on line 91
+[2020-01-22 15:43:19]:  Undefined variable: title in /Users/hey/code/tooEasy/views/main/listProducts.php on line 91
+[2020-01-22 15:43:19]:  Undefined property: src\models\Product::$ in /Users/hey/code/tooEasy/views/main/listProducts.php on line 91
+[2020-01-22 15:43:19]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:43:19]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:43:19]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:43:19]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:43:19]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:43:19]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:43:19]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:43:19]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:43:19]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:43:19]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:43:19]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:43:19]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:43:19]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:43:19]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:43:19]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:43:19]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:43:19]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:43:19]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:43:19]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:43:19]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:43:19]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:43:22]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 23
+[2020-01-22 15:43:22]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:43:22]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:43:22]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:43:22]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:43:22]:  Undefined index: email in /Users/hey/code/tooEasy/src/Session.php on line 36
+[2020-01-22 15:43:22]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 32
+[2020-01-22 15:46:17]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 23
+[2020-01-22 15:46:17]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:46:17]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:46:17]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:46:17]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:46:17]:  Undefined index: email in /Users/hey/code/tooEasy/src/Session.php on line 36
+[2020-01-22 15:46:17]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 32
+[2020-01-22 15:47:30]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 23
+[2020-01-22 15:47:30]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:47:30]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:47:30]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:47:30]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:47:30]:  Undefined index: email in /Users/hey/code/tooEasy/src/Session.php on line 36
+[2020-01-22 15:47:30]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 32
+[2020-01-22 15:48:01]:  Undefined variable: wrongInfo in /Users/hey/code/tooEasy/views/main/login.php on line 127
+[2020-01-22 15:48:01]:  Undefined variable: wrongEmail in /Users/hey/code/tooEasy/views/main/login.php on line 127
+[2020-01-22 15:48:01]:  Undefined variable: wrongPassword in /Users/hey/code/tooEasy/views/main/login.php on line 127
+[2020-01-22 15:48:01]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listrstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:48:33]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 23
+[2020-01-22 15:48:33]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:48:33]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:48:33]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:48:33]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:48:33]:  Undefined index: email in /Users/hey/code/tooEasy/src/Session.php on line 36
+[2020-01-22 15:48:33]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 32
+[2020-01-22 15:49:25]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 23
+[2020-01-22 15:49:25]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:49:25]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:49:25]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:49:25]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:49:25]:  Undefined index: email in /Users/hey/code/tooEasy/src/Session.php on line 36
+[2020-01-22 15:49:25]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 32
+[2020-01-22 15:49:38]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 23
+[2020-01-22 15:49:38]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:49:38]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:49:38]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:49:38]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:49:38]:  Undefined index: email in /Users/hey/code/tooEasy/src/Session.php on line 36
+[2020-01-22 15:49:38]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 32
+[2020-01-22 15:49:39]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 23
+[2020-01-22 15:49:39]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:49:39]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:49:39]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:49:39]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:49:39]:  Undefined index: email in /Users/hey/code/tooEasy/src/Session.php on line 36
+[2020-01-22 15:49:39]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 32
+[2020-01-22 15:49:59]:  Undefined variable: wrongInfo in /Users/hey/code/tooEasy/views/main/login.php on line 127
+[2020-01-22 15:49:59]:  Undefined variable: wrongEmail in /Users/hey/code/tooEasy/views/main/login.php on line 127
+[2020-01-22 15:49:59]:  Undefined variable: wrongPassword in /Users/hey/code/tooEasy/views/main/login.php on line 127
+[2020-01-22 15:49:59]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listrstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:50:10]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 23
+[2020-01-22 15:50:10]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:50:10]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:50:10]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:50:10]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:50:10]:  Undefined index: email in /Users/hey/code/tooEasy/src/Session.php on line 36
+[2020-01-22 15:50:10]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 32
+[2020-01-22 15:50:18]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 49
+[2020-01-22 15:50:18]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:50:18]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:50:18]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:50:18]:  Undefined index: sail in /Users/hey/code/tooEasy/src/models/Product.php on line 23
+[2020-01-22 15:50:18]:  Undefined index: email in /Users/hey/code/tooEasy/src/Session.php on line 36
+[2020-01-22 15:50:18]:  Undefined variable: catch in /Users/hey/code/tooEasy/src/controllers/StorageController.php on line 58
+[2020-01-22 15:50:18]:  Undefined variable: title in /Users/hey/code/tooEasy/views/main/listProducts.php on line 91
+[2020-01-22 15:50:18]:  Undefined property: src\models\Product::$ in /Users/hey/code/tooEasy/views/main/listProducts.php on line 91
+[2020-01-22 15:50:18]:  Undefined variable: title in /Users/hey/code/tooEasy/views/main/listProducts.php on line 91
+[2020-01-22 15:50:18]:  Undefined property: src\models\Product::$ in /Users/hey/code/tooEasy/views/main/listProducts.php on line 91
+[2020-01-22 15:50:18]:  Undefined variable: title in /Users/hey/code/tooEasy/views/main/listProducts.php on line 91
+[2020-01-22 15:50:18]:  Undefined property: src\models\Product::$ in /Users/hey/code/tooEasy/views/main/listProducts.php on line 91
+[2020-01-22 15:50:18]:  Undefined variable: title in /Users/hey/code/tooEasy/views/main/listProducts.php on line 91
+[2020-01-22 15:50:18]:  Undefined property: src\models\Product::$ in /Users/hey/code/tooEasy/views/main/listProducts.php on line 91
+[2020-01-22 15:50:18]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:50:18]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:50:18]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:50:18]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:50:18]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:50:18]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:50:18]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:50:18]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:50:18]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:50:18]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:50:18]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:50:18]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:50:18]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:50:18]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:50:18]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:50:18]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:50:18]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:50:18]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:50:18]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:50:18]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
+[2020-01-22 15:50:18]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'get_products_listpstorage' in /Users/hey/code/tooEasy/src/components/Router.php on line 49
