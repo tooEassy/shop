@@ -165,7 +165,7 @@
                                             <a href="#" class="button quick-wiew-button">Quick View</a>
                                             <div class="loop-form-add-to-cart">
                                                 <button class="single_add_to_cart_button button" value=
-                                                    "<?= $infoCounter++ ?>" name="<?= $val->title ?>">Add to cart
+                                                    "<?= $infoCounter++ ?>" name="<?= $val->id ?>">Add to cart
                                                 </button>
                                             </div>
                                         </div>

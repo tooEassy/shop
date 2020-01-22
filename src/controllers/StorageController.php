@@ -17,7 +17,6 @@ class StorageController
         try {
             Session::start();
         } catch (sessionStarted $e) {
-            $_SESSION['email'] = 'some@gmail.com';
             $catch = $e->getMessage();
         }
 
@@ -26,8 +25,6 @@ class StorageController
                 $good = new Product();
                 $all = $good->getAll();
                 $userEmail = Session::get('email');
-                var_dump(Session::get('email'));
-                var_dump($_SESSION);
             } catch (sessionGetNotStarted $e) {
                 $catch = $e->getMessage();
             }
