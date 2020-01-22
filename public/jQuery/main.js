@@ -1,14 +1,25 @@
 $(document).ready(()=> {
+    let $loginInfo = JSON.parse(localStorage.getItem('loginInfo'));
+    if ($loginInfo) {
+        $(".header-user-links>li:first-child>span").html("Hey, " + $loginInfo['email'] + " | <a class='logout' href='/'>Log out</a>");
+        $(".block-account").remove();
+        $(".logout").click((event) => {
+            localStorage.removeItem('loginInfo');
+        });
+    }
     let $cartProd = JSON.parse(localStorage.getItem('Cart'));
     if (!$cartProd) $cartProd = [];
     let $productQuont = 1;
+    let $allPrice = 0;
     $(".single_add_to_cart_button").click((event) => {
         $cartProd.push($(event.target).attr("name"));
         localStorage.setItem("Cart",  JSON.stringify($cartProd));
     });
     $(".shopcart-icon").click((event) => {
+        let $allPrice = 0;
+        $cartProd = JSON.parse(localStorage.getItem('Cart'));
         $.ajax({
-            url: "http://localhost/blabla",
+            url: "http://localhost/cart",
             type: "POST",
             data: {
                 'data': $cartProd,
@@ -16,9 +27,9 @@ $(document).ready(()=> {
             success: ($cartItem) => {
                 let $cartProducts = JSON.parse($cartItem);
                 let $cartProductsHtml;
-                console.log($cartProducts);
                 $.each($cartProducts, ($i, $cartProduct) => {
-                    $cartProductsHtml += `<li class="product-cart mini_cart_item" >
+                        $allPrice += parseInt($cartProduct['sale_price']);
+                        $cartProductsHtml += `<li class="product-cart mini_cart_item product-cart-${$cartProduct['id']}" >
                                                 <a href="#" class="product-media">
                                                 <img src="/images/${$cartProduct['main_image']}" alt="img">
                                                 </a>
@@ -41,28 +52,57 @@ $(document).ready(()=> {
                                                 </span>
                                                 </span>
                                                 <span class="product-quantity">
-                                                ${$productQuont}
+                                                x${$productQuont}
                                                 </span>
-                                                <div class="product-remove">
-                                                <i class="fa fa-trash-o" aria-hidden="true" data-id="${$cartProduct['title']}"></i>
-                                            </div>
+                                                <div class="product-remove" data-id="${$cartProduct['id']}">
+                                                    <i class="fa fa-trash-o" aria-hidden="true"></i>
+                                                </div>
                                             </div>
                                             </li>`;
+                    $(".total-price").html(
+                        `<span class="Price-amount">
+                        ${parseInt($allPrice)}
+                    </span>`
+                    );
                 });
 
                 $(".minicart-items").html($cartProductsHtml);
-
-                $(".fa-trash-o").click(function(event) {
+                $(".product-remove").click(function(event) {
                     let $cartProducts = JSON.parse(localStorage.getItem('Cart'));
-                    let $removeItem = $(event.target).attr('data-id');
-                    console.log($cartProducts);
-                    $cartProducts = $.grep($cartProducts, ($i, $product) => {
+                    let $removeItem = $(event.currentTarget).data('id');
+                    $cartProducts = $.grep($cartProducts, ($product) => {
                         return $product != $removeItem;
                     });
+                    $allPrice -= $removeItem['sale_price'];
+                    $(".product-cart-" + $removeItem).remove();
                     localStorage.setItem("Cart",  JSON.stringify($cartProducts));
-                    console.log($cartProducts);
                 });
 
+            },
+        });
+    });
+    $(".loginButton").click((event) => {
+        let $email = $(".input-email").val();
+        let $password = $(".input-password").val();
+        let $loginData = {
+            'email': $email,
+            'password':  $password,
+        };
+        $.ajax({
+           url: "http://localhost/enter",
+           type: "POST",
+           data: $loginData,
+           success: ($loginInformation) => {
+               if ($loginInformation == "OK") {
+                   localStorage.setItem('loginInfo',
+                       JSON.stringify($loginData),
+                   );
+                   $(".header-user-links>li:first-child>span").html("Hey, " + $loginData['email'] + " | <a class='logout' href='/'>Log out</a>");
+                   $(".block-account").remove();
+               }
+               else {
+                   $(".errorBlock").html($loginInformation);
+               }
             },
         });
     });

@@ -30,12 +30,12 @@ class Product
         }
         return $objects;
     }
-    public function getByName($titles)
+    public function getByName($allId)
     {
         $objects = array();
         $con = new Connection();
-        foreach ($titles as $title) {
-            $product = $con->db->query("SELECT * FROM products WHERE title = '$title'")->fetchAll();
+        foreach ($allId as $id) {
+            $product = $con->db->query("SELECT * FROM products WHERE id = '$id'")->fetchAll();
             foreach ($product as $row) {
             $newRow = new self();
             $newRow->id = $row['id'];

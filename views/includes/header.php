@@ -40,7 +40,7 @@
             <div class="top-bar-right">
                 <ul class="header-user-links">
                     <li>
-                        <a href="/signin">Login or Register</a>
+                        <span>Welcome to Easy Shop!</span>
                     </li>
                 </ul>
             </div>
@@ -99,9 +99,7 @@
                                     <div class="subtotal">
                                         <span class="total-title">Subtotal: </span>
                                         <span class="total-price">
-                                                <span class="Price-amount">
-                                                    $135
-                                                </span>
+
                                             </span>
                                     </div>
                                     <div class="actions">
@@ -131,12 +129,15 @@
                                     </ul>
                                     <div class="tab-container">
                                         <div id="header-tab-login" class="tab-panel active">
-                                            <form action="/enter/" method="post" class="login form-login">
+                                            <form onsubmit="return false" method="post" class="login form-login">
                                                 <p class="form-row form-row-wide">
-                                                    <input type="email" placeholder="Email" name="email" class="input-text"  required>
+                                                    <input type="email" placeholder="Email" name="email" class="input-text input-email"  required>
                                                 </p>
                                                 <p class="form-row form-row-wide">
-                                                    <input type="password" placeholder="Password" name="password" class="input-text" required>
+                                                    <input type="password" placeholder="Password" name="password" class="input-text input-password" required>
+                                                </p>
+                                                <p class="errorBlock">
+
                                                 </p>
                                                 <p class="form-row">
                                                     <label class="form-checkbox">
@@ -145,7 +146,7 @@
                                                                 Remember me
                                                             </span>
                                                     </label>
-                                                    <input type="submit" class="button" value="Login">
+                                                    <input type="submit" class="loginButton" value="Login">
                                                 </p>
                                                 <p class="lost_password">
                                                     <a href="#">Lost your password?</a>
