@@ -138,7 +138,6 @@
                     <ul class="row list-products auto-clear equal-container product-grid">
                         <?php
                         $infoCounter = 1;
-                        print_r($_SESSION);
                         foreach($all as $val): ?>
                         <li class="product-item product-type-variable col-lg-4 col-md-6 col-sm-6 col-xs-6 col-ts-12 style-1">
                             <div class="product-inner equal-element">
