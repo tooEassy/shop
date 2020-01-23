@@ -140,12 +140,6 @@
 
                                                 </p>
                                                 <p class="form-row">
-                                                    <label class="form-checkbox">
-                                                        <input type="checkbox" class="input-checkbox">
-                                                        <span>
-                                                                Remember me
-                                                            </span>
-                                                    </label>
                                                     <input type="submit" class="loginButton" value="Login">
                                                 </p>
                                                 <p class="lost_password">

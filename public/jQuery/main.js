@@ -106,5 +106,34 @@ $(document).ready(()=> {
             },
         });
     });
+    $(".categoryCheckbox").on('change', ()=> {
+        let $allAttributes = [];
+        $(".categoryCheckbox:checked").each(($i, $checkbox) => {
+            $allAttributes.push($checkbox.id.split('cb')[1]);
+        });
+        if (!$allAttributes[0]) {
+            $(".categoryCheckbox").each(($i, $checkbox) => {
+                $allAttributes.push($checkbox.id.split('cb')[1]);
+            });
+        }
+        $.ajax({
+            url: "http://localhost/category",
+            type: "POST",
+            data: {
+                'checked': $allAttributes,
+            },
+            success: ($productByAttribute) => {
+                let $selectedProducts = JSON.parse($productByAttribute);
+                let $htmlProducts = $(".product-item:first-child").clone();
+                $(".product-item").remove();
+                console.log($selectedProducts);
+                $.each($selectedProducts, ($i, $selectedProduct) => {
+                    $htmlProducts.appendTo(".list-products");
+                    console.log($selectedProduct);
+                    $(".main-image img").attr('src', "/images/" + $selectedProduct['main_image']);
+                });
+            }
+        });
+    });
 });
 

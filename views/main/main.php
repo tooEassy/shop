@@ -99,710 +99,107 @@
                     <h3 class="custom_blog_title">
                         Grid Products Left Sidebar
                     </h3>
-                    <div class="shop-top-control">
-                        <form class="select-item select-form">
-                            <span class="title">Sort</span>
-                            <select data-placeholder="12 Products/Page" class="chosen-select">
-                                <option value="1">12 Products/Page</option>
-                                <option value="2">9 Products/Page</option>
-                                <option value="3">10 Products/Page</option>
-                                <option value="4">8 Products/Page</option>
-                                <option value="5">6 Products/Page</option>
-                            </select>
-                        </form>
-                        <form class="filter-choice select-form">
-                            <span class="title">Sort by</span>
-                            <select data-placeholder="Price: Low to High" class="chosen-select">
-                                <option value="1">Price: Low to High</option>
-                                <option value="2">Sort by popularity</option>
-                                <option value="3">Sort by average rating</option>
-                                <option value="4">Sort by newness</option>
-                                <option value="5">Sort by price: low to high</option>
-                            </select>
-                        </form>
-                        <div class="grid-view-mode">
-                            <div class="inner">
-                                <a href="products/list" class="modes-mode mode-list">
-                                    <span></span>
-                                    <span></span>
-                                </a>
-                                <a href="#" class="modes-mode mode-grid  active">
-                                    <span></span>
-                                    <span></span>
-                                    <span></span>
-                                    <span></span>
-                                </a>
+                        <div class="shop-top-control">
+                            <form class="select-item select-form">
+                                <span class="title">Sort</span>
+                                <select data-placeholder="12 Products/Page" class="chosen-select">
+                                    <option value="1">12 Products/Page</option>
+                                    <option value="2">9 Products/Page</option>
+                                    <option value="3">10 Products/Page</option>
+                                    <option value="4">8 Products/Page</option>
+                                    <option value="5">6 Products/Page</option>
+                                </select>
+                            </form>
+                            <form class="filter-choice select-form">
+                                <span class="title">Sort by</span>
+                                <select data-placeholder="Price: Low to High" class="chosen-select">
+                                    <option value="1">Price: Low to High</option>
+                                    <option value="2">Sort by popularity</option>
+                                    <option value="3">Sort by average rating</option>
+                                    <option value="4">Sort by newness</option>
+                                    <option value="5">Sort by price: low to high</option>
+                                </select>
+                            </form>
+                            <div class="grid-view-mode">
+                                <div class="inner">
+                                    <a href="products/list" class="modes-mode mode-list">
+                                        <span></span>
+                                        <span></span>
+                                    </a>
+                                    <a href="#" class="modes-mode mode-grid  active">
+                                        <span></span>
+                                        <span></span>
+                                        <span></span>
+                                        <span></span>
+                                    </a>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <ul class="row list-products auto-clear equal-container product-grid">
-                        <?php
-                        $infoCounter = 1;
-                        foreach($all as $val): ?>
-                        <li class="product-item product-type-variable col-lg-4 col-md-6 col-sm-6 col-xs-6 col-ts-12 style-1">
-                            <div class="product-inner equal-element">
-                                <div class="product-top">
-                                    <div class="flash">
-											<span class="onnew">
-												<span class="text">
-													new
-												</span>
-											</span>
+                    <div class="wrap">
+                        <ul class="row list-products auto-clear equal-container product-grid">
+                            <?php
+                            $infoCounter = 1;
+                            foreach($allProducts as $val): ?>
+                            <li class="product-item product-type-variable col-lg-4 col-md-6 col-sm-6 col-xs-6 col-ts-12 style-1">
+                                <div class="product-inner equal-element">
+                                    <div class="product-top">
+                                        <div class="flash">
+                                                <span class="onnew">
+                                                    <span class="text">
+                                                        new
+                                                    </span>
+                                                </span>
+                                        </div>
                                     </div>
-                                </div>
-                                <div class="product-thumb">
-                                    <div class="thumb-inner">
-                                        <a href="#" class="main-image">
-                                            <img src="/images/<?= $val->main_image ?>" alt="<?= $val->title ?>">
-                                        </a>
-                                        <div class="thumb-group">
-                                            <div class="yith-wcwl-add-to-wishlist">
-                                                <div class="yith-wcwl-add-button">
-                                                    <a href="">Add to Wishlist</a>
+                                    <div class="product-thumb">
+                                        <div class="thumb-inner">
+                                            <a href="#" class="main-image">
+                                                <img src="/images/<?= $val->main_image ?>" alt="<?= $val->title ?>">
+                                            </a>
+                                            <div class="thumb-group">
+                                                <div class="yith-wcwl-add-to-wishlist">
+                                                    <div class="yith-wcwl-add-button">
+                                                        <a href="">Add to Wishlist</a>
+                                                    </div>
+                                                </div>
+                                                <a href="#" class="button quick-wiew-button">Quick View</a>
+                                                <div class="loop-form-add-to-cart">
+                                                    <button class="single_add_to_cart_button button" value=
+                                                        "<?= $infoCounter++ ?>" name="<?= $val->id ?>">Add to cart
+                                                    </button>
                                                 </div>
                                             </div>
-                                            <a href="#" class="button quick-wiew-button">Quick View</a>
-                                            <div class="loop-form-add-to-cart">
-                                                <button class="single_add_to_cart_button button" value=
-                                                    "<?= $infoCounter++ ?>" name="<?= $val->id ?>">Add to cart
-                                                </button>
+                                        </div>
+                                    </div>
+                                    <div class="product-info">
+                                        <h5 class="product-name product_title">
+                                            <a href="#" class="title-in-info"><?= $val->title ?></a>
+                                        </h5>
+                                            <span><?= $val->desc?></span>
+                                        <div class="group-info">
+                                            <div class="stars-rating">
+                                                <div class="star-rating">
+                                                    <span class="star-3"></span>
+                                                </div>
+                                                <div class="count-star">
+                                                    (3)
+                                                </div>
+                                            </div>
+                                            <div class="price">
+                                                <del>
+                                                    $<?= $val->sale_price ?>
+                                                </del>
+                                                <ins>
+                                                    $<?= (($val->sale_price) -20) ?>
+                                                </ins>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="product-info">
-                                    <h5 class="product-name product_title">
-                                        <a href="#" class="title-in-info"><?= $val->title ?></a>
-                                    </h5>
-                                        <span><?= $val->desc?></span>
-                                    <div class="group-info">
-                                        <div class="stars-rating">
-                                            <div class="star-rating">
-                                                <span class="star-3"></span>
-                                            </div>
-                                            <div class="count-star">
-                                                (3)
-                                            </div>
-                                        </div>
-                                        <div class="price">
-                                            <del>
-                                                $<?= $val->sale_price ?>
-                                            </del>
-                                            <ins>
-                                                $<?= (($val->sale_price) -20) ?>
-                                            </ins>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </li>
-                        <?php endforeach; ?>
-<!--                        <li class="product-item product-type-variable col-lg-4 col-md-6 col-sm-6 col-xs-6 col-ts-12 style-1">-->
-<!--                            <div class="product-inner equal-element">-->
-<!--                                <div class="product-top">-->
-<!--                                    <div class="flash">-->
-<!--											<span class="onnew">-->
-<!--												<span class="text">-->
-<!--													new-->
-<!--												</span>-->
-<!--											</span>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                                <div class="product-thumb">-->
-<!--                                    <div class="thumb-inner">-->
-<!--                                        <a href="#">-->
-<!--                                            <img src="assets/images/product-item-2.jpg" alt="img">-->
-<!--                                        </a>-->
-<!--                                        <div class="thumb-group">-->
-<!--                                            <div class="yith-wcwl-add-to-wishlist">-->
-<!--                                                <div class="yith-wcwl-add-button">-->
-<!--                                                    <a href="#">Add to Wishlist</a>-->
-<!--                                                </div>-->
-<!--                                            </div>-->
-<!--                                            <a href="#" class="button quick-wiew-button">Quick View</a>-->
-<!--                                            <div class="loop-form-add-to-cart">-->
-<!--                                                <button class="single_add_to_cart_button button">Add to cart-->
-<!--                                                </button>-->
-<!--                                            </div>-->
-<!--                                        </div>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                                <div class="product-info">-->
-<!--                                    <h5 class="product-name product_title">-->
-<!--                                        <a href="#">Long Sleeve Midi</a>-->
-<!--                                    </h5>-->
-<!--                                    <div class="group-info">-->
-<!--                                        <div class="stars-rating">-->
-<!--                                            <div class="star-rating">-->
-<!--                                                <span class="star-3"></span>-->
-<!--                                            </div>-->
-<!--                                            <div class="count-star">-->
-<!--                                                (3)-->
-<!--                                            </div>-->
-<!--                                        </div>-->
-<!--                                        <div class="price">-->
-<!--                                            <del>-->
-<!--                                                $65-->
-<!--                                            </del>-->
-<!--                                            <ins>-->
-<!--                                                $45-->
-<!--                                            </ins>-->
-<!--                                        </div>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                            </div>-->
-<!--                        </li>-->
-<!--                        <li class="product-item product-type-variable col-lg-4 col-md-6 col-sm-6 col-xs-6 col-ts-12 style-1">-->
-<!--                            <div class="product-inner equal-element">-->
-<!--                                <div class="product-top">-->
-<!--                                    <div class="flash">-->
-<!--											<span class="onnew">-->
-<!--												<span class="text">-->
-<!--													new-->
-<!--												</span>-->
-<!--											</span>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                                <div class="product-thumb">-->
-<!--                                    <div class="thumb-inner">-->
-<!--                                        <a href="#">-->
-<!--                                            <img src="assets/images/product-item-3.jpg" alt="img">-->
-<!--                                        </a>-->
-<!--                                        <div class="thumb-group">-->
-<!--                                            <div class="yith-wcwl-add-to-wishlist">-->
-<!--                                                <div class="yith-wcwl-add-button">-->
-<!--                                                    <a href="#">Add to Wishlist</a>-->
-<!--                                                </div>-->
-<!--                                            </div>-->
-<!--                                            <a href="#" class="button quick-wiew-button">Quick View</a>-->
-<!--                                            <div class="loop-form-add-to-cart">-->
-<!--                                                <button class="single_add_to_cart_button button">Add to cart-->
-<!--                                                </button>-->
-<!--                                            </div>-->
-<!--                                        </div>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                                <div class="product-info">-->
-<!--                                    <h5 class="product-name product_title">-->
-<!--                                        <a href="#">Long Sleeve Midi</a>-->
-<!--                                    </h5>-->
-<!--                                    <div class="group-info">-->
-<!--                                        <div class="stars-rating">-->
-<!--                                            <div class="star-rating">-->
-<!--                                                <span class="star-3"></span>-->
-<!--                                            </div>-->
-<!--                                            <div class="count-star">-->
-<!--                                                (3)-->
-<!--                                            </div>-->
-<!--                                        </div>-->
-<!--                                        <div class="price">-->
-<!--                                            <del>-->
-<!--                                                $65-->
-<!--                                            </del>-->
-<!--                                            <ins>-->
-<!--                                                $45-->
-<!--                                            </ins>-->
-<!--                                        </div>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                            </div>-->
-<!--                        </li>-->
-<!--                        <li class="product-item product-type-variable col-lg-4 col-md-6 col-sm-6 col-xs-6 col-ts-12 style-1">-->
-<!--                            <div class="product-inner equal-element">-->
-<!--                                <div class="product-top">-->
-<!--                                    <div class="flash">-->
-<!--											<span class="onnew">-->
-<!--												<span class="text">-->
-<!--													new-->
-<!--												</span>-->
-<!--											</span>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                                <div class="product-thumb">-->
-<!--                                    <div class="thumb-inner">-->
-<!--                                        <a href="#">-->
-<!--                                            <img src="assets/images/product-item-4.jpg" alt="img">-->
-<!--                                        </a>-->
-<!--                                        <div class="thumb-group">-->
-<!--                                            <div class="yith-wcwl-add-to-wishlist">-->
-<!--                                                <div class="yith-wcwl-add-button">-->
-<!--                                                    <a href="#">Add to Wishlist</a>-->
-<!--                                                </div>-->
-<!--                                            </div>-->
-<!--                                            <a href="#" class="button quick-wiew-button">Quick View</a>-->
-<!--                                            <div class="loop-form-add-to-cart">-->
-<!--                                                <button class="single_add_to_cart_button button">Add to cart-->
-<!--                                                </button>-->
-<!--                                            </div>-->
-<!--                                        </div>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                                <div class="product-info">-->
-<!--                                    <h5 class="product-name product_title">-->
-<!--                                        <a href="#">Long Sleeve Midi</a>-->
-<!--                                    </h5>-->
-<!--                                    <div class="group-info">-->
-<!--                                        <div class="stars-rating">-->
-<!--                                            <div class="star-rating">-->
-<!--                                                <span class="star-3"></span>-->
-<!--                                            </div>-->
-<!--                                            <div class="count-star">-->
-<!--                                                (3)-->
-<!--                                            </div>-->
-<!--                                        </div>-->
-<!--                                        <div class="price">-->
-<!--                                            <del>-->
-<!--                                                $65-->
-<!--                                            </del>-->
-<!--                                            <ins>-->
-<!--                                                $45-->
-<!--                                            </ins>-->
-<!--                                        </div>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                            </div>-->
-<!--                        </li>-->
-<!--                        <li class="product-item  col-lg-4 col-md-6 col-sm-6 col-xs-6 col-ts-12 style-1">-->
-<!--                            <div class="product-inner equal-element">-->
-<!--                                <div class="product-top">-->
-<!--                                    <div class="flash">-->
-<!--											<span class="onnew">-->
-<!--												<span class="text">-->
-<!--													new-->
-<!--												</span>-->
-<!--											</span>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                                <div class="product-thumb">-->
-<!--                                    <div class="thumb-inner">-->
-<!--                                        <a href="#">-->
-<!--                                            <img src="assets/images/product-item-5.jpg" alt="img">-->
-<!--                                        </a>-->
-<!--                                        <div class="thumb-group">-->
-<!--                                            <div class="yith-wcwl-add-to-wishlist">-->
-<!--                                                <div class="yith-wcwl-add-button">-->
-<!--                                                    <a href="#">Add to Wishlist</a>-->
-<!--                                                </div>-->
-<!--                                            </div>-->
-<!--                                            <a href="#" class="button quick-wiew-button">Quick View</a>-->
-<!--                                            <div class="loop-form-add-to-cart">-->
-<!--                                                <button class="single_add_to_cart_button button">Add to cart-->
-<!--                                                </button>-->
-<!--                                            </div>-->
-<!--                                        </div>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                                <div class="product-info">-->
-<!--                                    <h5 class="product-name product_title">-->
-<!--                                        <a href="#">Long Sleeve Midi</a>-->
-<!--                                    </h5>-->
-<!--                                    <div class="group-info">-->
-<!--                                        <div class="stars-rating">-->
-<!--                                            <div class="star-rating">-->
-<!--                                                <span class="star-3"></span>-->
-<!--                                            </div>-->
-<!--                                            <div class="count-star">-->
-<!--                                                (3)-->
-<!--                                            </div>-->
-<!--                                        </div>-->
-<!--                                        <div class="price">-->
-<!--                                            <del>-->
-<!--                                                $65-->
-<!--                                            </del>-->
-<!--                                            <ins>-->
-<!--                                                $45-->
-<!--                                            </ins>-->
-<!--                                        </div>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                            </div>-->
-<!--                        </li>-->
-<!--                        <li class="product-item product-type-variable col-lg-4 col-md-6 col-sm-6 col-xs-6 col-ts-12 style-1">-->
-<!--                            <div class="product-inner equal-element">-->
-<!--                                <div class="product-top">-->
-<!--                                    <div class="flash">-->
-<!--											<span class="onnew">-->
-<!--												<span class="text">-->
-<!--													new-->
-<!--												</span>-->
-<!--											</span>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                                <div class="product-thumb">-->
-<!--                                    <div class="thumb-inner">-->
-<!--                                        <a href="#">-->
-<!--                                            <img src="assets/images/product-item-6.jpg" alt="img">-->
-<!--                                        </a>-->
-<!--                                        <div class="thumb-group">-->
-<!--                                            <div class="yith-wcwl-add-to-wishlist">-->
-<!--                                                <div class="yith-wcwl-add-button">-->
-<!--                                                    <a href="#">Add to Wishlist</a>-->
-<!--                                                </div>-->
-<!--                                            </div>-->
-<!--                                            <a href="#" class="button quick-wiew-button">Quick View</a>-->
-<!--                                            <div class="loop-form-add-to-cart">-->
-<!--                                                <button class="single_add_to_cart_button button">Add to cart-->
-<!--                                                </button>-->
-<!--                                            </div>-->
-<!--                                        </div>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                                <div class="product-info">-->
-<!--                                    <h5 class="product-name product_title">-->
-<!--                                        <a href="#">Long Sleeve Midi</a>-->
-<!--                                    </h5>-->
-<!--                                    <div class="group-info">-->
-<!--                                        <div class="stars-rating">-->
-<!--                                            <div class="star-rating">-->
-<!--                                                <span class="star-3"></span>-->
-<!--                                            </div>-->
-<!--                                            <div class="count-star">-->
-<!--                                                (3)-->
-<!--                                            </div>-->
-<!--                                        </div>-->
-<!--                                        <div class="price">-->
-<!--                                            <del>-->
-<!--                                                $65-->
-<!--                                            </del>-->
-<!--                                            <ins>-->
-<!--                                                $45-->
-<!--                                            </ins>-->
-<!--                                        </div>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                            </div>-->
-<!--                        </li>-->
-<!--                        <li class="product-item product-type-variable col-lg-4 col-md-6 col-sm-6 col-xs-6 col-ts-12 style-1">-->
-<!--                            <div class="product-inner equal-element">-->
-<!--                                <div class="product-top">-->
-<!--                                    <div class="flash">-->
-<!--											<span class="onnew">-->
-<!--												<span class="text">-->
-<!--													new-->
-<!--												</span>-->
-<!--											</span>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                                <div class="product-thumb">-->
-<!--                                    <div class="thumb-inner">-->
-<!--                                        <a href="#">-->
-<!--                                            <img src="assets/images/product-item-7.jpg" alt="img">-->
-<!--                                        </a>-->
-<!--                                        <div class="thumb-group">-->
-<!--                                            <div class="yith-wcwl-add-to-wishlist">-->
-<!--                                                <div class="yith-wcwl-add-button">-->
-<!--                                                    <a href="#">Add to Wishlist</a>-->
-<!--                                                </div>-->
-<!--                                            </div>-->
-<!--                                            <a href="#" class="button quick-wiew-button">Quick View</a>-->
-<!--                                            <div class="loop-form-add-to-cart">-->
-<!--                                                <button class="single_add_to_cart_button button">Add to cart-->
-<!--                                                </button>-->
-<!--                                            </div>-->
-<!--                                        </div>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                                <div class="product-info">-->
-<!--                                    <h5 class="product-name product_title">-->
-<!--                                        <a href="#">Long Sleeve Midi</a>-->
-<!--                                    </h5>-->
-<!--                                    <div class="group-info">-->
-<!--                                        <div class="stars-rating">-->
-<!--                                            <div class="star-rating">-->
-<!--                                                <span class="star-3"></span>-->
-<!--                                            </div>-->
-<!--                                            <div class="count-star">-->
-<!--                                                (3)-->
-<!--                                            </div>-->
-<!--                                        </div>-->
-<!--                                        <div class="price">-->
-<!--                                            <del>-->
-<!--                                                $65-->
-<!--                                            </del>-->
-<!--                                            <ins>-->
-<!--                                                $45-->
-<!--                                            </ins>-->
-<!--                                        </div>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                            </div>-->
-<!--                        </li>-->
-<!--                        <li class="product-item  col-lg-4 col-md-6 col-sm-6 col-xs-6 col-ts-12 style-1">-->
-<!--                            <div class="product-inner equal-element">-->
-<!--                                <div class="product-top">-->
-<!--                                    <div class="flash">-->
-<!--											<span class="onnew">-->
-<!--												<span class="text">-->
-<!--													new-->
-<!--												</span>-->
-<!--											</span>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                                <div class="product-thumb">-->
-<!--                                    <div class="thumb-inner">-->
-<!--                                        <a href="#">-->
-<!--                                            <img src="assets/images/product-item-8.jpg" alt="img">-->
-<!--                                        </a>-->
-<!--                                        <div class="thumb-group">-->
-<!--                                            <div class="yith-wcwl-add-to-wishlist">-->
-<!--                                                <div class="yith-wcwl-add-button">-->
-<!--                                                    <a href="#">Add to Wishlist</a>-->
-<!--                                                </div>-->
-<!--                                            </div>-->
-<!--                                            <a href="#" class="button quick-wiew-button">Quick View</a>-->
-<!--                                            <div class="loop-form-add-to-cart">-->
-<!--                                                <button class="single_add_to_cart_button button">Add to cart-->
-<!--                                                </button>-->
-<!--                                            </div>-->
-<!--                                        </div>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                                <div class="product-info">-->
-<!--                                    <h5 class="product-name product_title">-->
-<!--                                        <a href="#">Long Sleeve Midi</a>-->
-<!--                                    </h5>-->
-<!--                                    <div class="group-info">-->
-<!--                                        <div class="stars-rating">-->
-<!--                                            <div class="star-rating">-->
-<!--                                                <span class="star-3"></span>-->
-<!--                                            </div>-->
-<!--                                            <div class="count-star">-->
-<!--                                                (3)-->
-<!--                                            </div>-->
-<!--                                        </div>-->
-<!--                                        <div class="price">-->
-<!--                                            <del>-->
-<!--                                                $65-->
-<!--                                            </del>-->
-<!--                                            <ins>-->
-<!--                                                $45-->
-<!--                                            </ins>-->
-<!--                                        </div>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                            </div>-->
-<!--                        </li>-->
-<!--                        <li class="product-item product-type-variable col-lg-4 col-md-6 col-sm-6 col-xs-6 col-ts-12 style-1">-->
-<!--                            <div class="product-inner equal-element">-->
-<!--                                <div class="product-top">-->
-<!--                                    <div class="flash">-->
-<!--											<span class="onnew">-->
-<!--												<span class="text">-->
-<!--													new-->
-<!--												</span>-->
-<!--											</span>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                                <div class="product-thumb">-->
-<!--                                    <div class="thumb-inner">-->
-<!--                                        <a href="#">-->
-<!--                                            <img src="assets/images/product-item-9.jpg" alt="img">-->
-<!--                                        </a>-->
-<!--                                        <div class="thumb-group">-->
-<!--                                            <div class="yith-wcwl-add-to-wishlist">-->
-<!--                                                <div class="yith-wcwl-add-button">-->
-<!--                                                    <a href="#">Add to Wishlist</a>-->
-<!--                                                </div>-->
-<!--                                            </div>-->
-<!--                                            <a href="#" class="button quick-wiew-button">Quick View</a>-->
-<!--                                            <div class="loop-form-add-to-cart">-->
-<!--                                                <button class="single_add_to_cart_button button">Add to cart-->
-<!--                                                </button>-->
-<!--                                            </div>-->
-<!--                                        </div>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                                <div class="product-info">-->
-<!--                                    <h5 class="product-name product_title">-->
-<!--                                        <a href="#">Long Sleeve Midi</a>-->
-<!--                                    </h5>-->
-<!--                                    <div class="group-info">-->
-<!--                                        <div class="stars-rating">-->
-<!--                                            <div class="star-rating">-->
-<!--                                                <span class="star-3"></span>-->
-<!--                                            </div>-->
-<!--                                            <div class="count-star">-->
-<!--                                                (3)-->
-<!--                                            </div>-->
-<!--                                        </div>-->
-<!--                                        <div class="price">-->
-<!--                                            <del>-->
-<!--                                                $65-->
-<!--                                            </del>-->
-<!--                                            <ins>-->
-<!--                                                $45-->
-<!--                                            </ins>-->
-<!--                                        </div>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                            </div>-->
-<!--                        </li>-->
-<!--                        <li class="product-item product-type-variable col-lg-4 col-md-6 col-sm-6 col-xs-6 col-ts-12 style-1">-->
-<!--                            <div class="product-inner equal-element">-->
-<!--                                <div class="product-top">-->
-<!--                                    <div class="flash">-->
-<!--											<span class="onnew">-->
-<!--												<span class="text">-->
-<!--													new-->
-<!--												</span>-->
-<!--											</span>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                                <div class="product-thumb">-->
-<!--                                    <div class="thumb-inner">-->
-<!--                                        <a href="#">-->
-<!--                                            <img src="assets/images/product-item-10.jpg" alt="img">-->
-<!--                                        </a>-->
-<!--                                        <div class="thumb-group">-->
-<!--                                            <div class="yith-wcwl-add-to-wishlist">-->
-<!--                                                <div class="yith-wcwl-add-button">-->
-<!--                                                    <a href="#">Add to Wishlist</a>-->
-<!--                                                </div>-->
-<!--                                            </div>-->
-<!--                                            <a href="#" class="button quick-wiew-button">Quick View</a>-->
-<!--                                            <div class="loop-form-add-to-cart">-->
-<!--                                                <button class="single_add_to_cart_button button">Add to cart-->
-<!--                                                </button>-->
-<!--                                            </div>-->
-<!--                                        </div>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                                <div class="product-info">-->
-<!--                                    <h5 class="product-name product_title">-->
-<!--                                        <a href="#">Long Sleeve Midi</a>-->
-<!--                                    </h5>-->
-<!--                                    <div class="group-info">-->
-<!--                                        <div class="stars-rating">-->
-<!--                                            <div class="star-rating">-->
-<!--                                                <span class="star-3"></span>-->
-<!--                                            </div>-->
-<!--                                            <div class="count-star">-->
-<!--                                                (3)-->
-<!--                                            </div>-->
-<!--                                        </div>-->
-<!--                                        <div class="price">-->
-<!--                                            <del>-->
-<!--                                                $65-->
-<!--                                            </del>-->
-<!--                                            <ins>-->
-<!--                                                $45-->
-<!--                                            </ins>-->
-<!--                                        </div>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                            </div>-->
-<!--                        </li>-->
-<!--                        <li class="product-item product-type-variable col-lg-4 col-md-6 col-sm-6 col-xs-6 col-ts-12 style-1">-->
-<!--                            <div class="product-inner equal-element">-->
-<!--                                <div class="product-top">-->
-<!--                                    <div class="flash">-->
-<!--											<span class="onnew">-->
-<!--												<span class="text">-->
-<!--													new-->
-<!--												</span>-->
-<!--											</span>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                                <div class="product-thumb">-->
-<!--                                    <div class="thumb-inner">-->
-<!--                                        <a href="#">-->
-<!--                                            <img src="assets/images/product-item-11.jpg" alt="img">-->
-<!--                                        </a>-->
-<!--                                        <div class="thumb-group">-->
-<!--                                            <div class="yith-wcwl-add-to-wishlist">-->
-<!--                                                <div class="yith-wcwl-add-button">-->
-<!--                                                    <a href="#">Add to Wishlist</a>-->
-<!--                                                </div>-->
-<!--                                            </div>-->
-<!--                                            <a href="#" class="button quick-wiew-button">Quick View</a>-->
-<!--                                            <div class="loop-form-add-to-cart">-->
-<!--                                                <button class="single_add_to_cart_button button">Add to cart-->
-<!--                                                </button>-->
-<!--                                            </div>-->
-<!--                                        </div>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                                <div class="product-info">-->
-<!--                                    <h5 class="product-name product_title">-->
-<!--                                        <a href="#">Long Sleeve Midi</a>-->
-<!--                                    </h5>-->
-<!--                                    <div class="group-info">-->
-<!--                                        <div class="stars-rating">-->
-<!--                                            <div class="star-rating">-->
-<!--                                                <span class="star-3"></span>-->
-<!--                                            </div>-->
-<!--                                            <div class="count-star">-->
-<!--                                                (3)-->
-<!--                                            </div>-->
-<!--                                        </div>-->
-<!--                                        <div class="price">-->
-<!--                                            <del>-->
-<!--                                                $65-->
-<!--                                            </del>-->
-<!--                                            <ins>-->
-<!--                                                $45-->
-<!--                                            </ins>-->
-<!--                                        </div>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                            </div>-->
-<!--                        </li>-->
-<!--                        <li class="product-item product-type-variable col-lg-4 col-md-6 col-sm-6 col-xs-6 col-ts-12 style-1">-->
-<!--                            <div class="product-inner equal-element">-->
-<!--                                <div class="product-top">-->
-<!--                                    <div class="flash">-->
-<!--											<span class="onnew">-->
-<!--												<span class="text">-->
-<!--													new-->
-<!--												</span>-->
-<!--											</span>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                                <div class="product-thumb">-->
-<!--                                    <div class="thumb-inner">-->
-<!--                                        <a href="#">-->
-<!--                                            <img src="assets/images/product-item-12.jpg" alt="img">-->
-<!--                                        </a>-->
-<!--                                        <div class="thumb-group">-->
-<!--                                            <div class="yith-wcwl-add-to-wishlist">-->
-<!--                                                <div class="yith-wcwl-add-button">-->
-<!--                                                    <a href="#">Add to Wishlist</a>-->
-<!--                                                </div>-->
-<!--                                            </div>-->
-<!--                                            <a href="#" class="button quick-wiew-button">Quick View</a>-->
-<!--                                            <div class="loop-form-add-to-cart">-->
-<!--                                                <button class="single_add_to_cart_button button">Add to cart-->
-<!--                                                </button>-->
-<!--                                            </div>-->
-<!--                                        </div>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                                <div class="product-info">-->
-<!--                                    <h5 class="product-name product_title">-->
-<!--                                        <a href="#">Long Sleeve Midi</a>-->
-<!--                                    </h5>-->
-<!--                                    <div class="group-info">-->
-<!--                                        <div class="stars-rating">-->
-<!--                                            <div class="star-rating">-->
-<!--                                                <span class="star-3"></span>-->
-<!--                                            </div>-->
-<!--                                            <div class="count-star">-->
-<!--                                                (3)-->
-<!--                                            </div>-->
-<!--                                        </div>-->
-<!--                                        <div class="price">-->
-<!--                                            <del>-->
-<!--                                                $65-->
-<!--                                            </del>-->
-<!--                                            <ins>-->
-<!--                                                $45-->
-<!--                                            </ins>-->
-<!--                                        </div>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                            </div>-->
-<!--                        </li>-->
-                    </ul>
+                            </li>
+                            <?php endforeach; ?>
+                        </ul>
+                    </div>
                     <div class="pagination clearfix style3">
                         <div class="nav-link">
                             <a href="#" class="page-numbers"><i class="icon fa fa-angle-left"
@@ -822,42 +219,17 @@
                         <div class="widget widget-categories">
                             <h3 class="widgettitle">Categories</h3>
                             <ul class="list-categories">
+                                <?php
+                                $idCoiunter = 1;
+                                foreach ($allCategories as $category):
+                                ?>
                                 <li>
-                                    <input type="checkbox" id="cb1">
-                                    <label for="cb1" class="label-text">
-                                        New Arrivals
+                                    <input type="checkbox" class="categoryCheckbox" id="cb<?= $category->id ?>">
+                                    <label for="cb<?= $category->id ?>" class="label-text">
+                                        <?= $category->title ?>
                                     </label>
                                 </li>
-                                <li>
-                                    <input type="checkbox" id="cb2">
-                                    <label for="cb2" class="label-text">
-                                        Shoes
-                                    </label>
-                                </li>
-                                <li>
-                                    <input type="checkbox" id="cb3">
-                                    <label for="cb3" class="label-text">
-                                        Tables
-                                    </label>
-                                </li>
-                                <li>
-                                    <input type="checkbox" id="cb4">
-                                    <label for="cb4" class="label-text">
-                                        Trousers
-                                    </label>
-                                </li>
-                                <li>
-                                    <input type="checkbox" id="cb5">
-                                    <label for="cb5" class="label-text">
-                                        Accessories
-                                    </label>
-                                </li>
-                                <li>
-                                    <input type="checkbox" id="cb6">
-                                    <label for="cb6" class="label-text">
-                                        Bags
-                                    </label>
-                                </li>
+                                <?php endforeach; ?>
                             </ul>
                         </div>
                         <div class="widget widget_filter_price">
@@ -984,135 +356,6 @@
         </div>
     </div>
 </div>
-<footer class="footer style7">
-    <div class="container">
-        <div class="container-wapper">
-            <div class="row">
-                <div class="box-footer col-xs-12 col-sm-6 col-md-6 col-lg-4">
-                    <div class="widget-box">
-                        <div class="single-img">
-                            <a href="index.html"><img src="assets/images/logo-light.png" alt="img"></a>
-                        </div>
-                        <ul class="menu">
-                            <li class="menu-item">
-                                <a href="#"><span class="flaticon-placeholder"></span>45 Grand Central Terminal New
-                                    York,NY 1017 United State USA</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="#"><span class="fa fa-phone"></span>(+123) 456 789 - (+123) 666 888</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="#"><span class="fa fa-envelope-o"></span>Contact@yourcompany.com</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="#"><span class="flaticon-clock"></span>Mon-Sat 9:00pm - 5:00pm Sun : Closed</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="box-footer col-xs-12 col-sm-6 col-md-6 col-lg-2">
-                    <div class="nozari-custommenu default">
-                        <h2 class="widgettitle">Quick Menu</h2>
-                        <ul class="menu">
-                            <li class="menu-item">
-                                <a href="#">New arrivals</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="#">Life style</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="#">Trousers</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="#">Bags</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="#">Shoes</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="box-footer col-xs-12 col-sm-6 col-md-6 col-lg-2">
-                    <div class="nozari-custommenu default">
-                        <h2 class="widgettitle">Information</h2>
-                        <ul class="menu">
-                            <li class="menu-item">
-                                <a href="#">FAQs</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="#">Track Order</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="#">Delivery</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="#">Contact Us</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="#">Return</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="box-footer col-xs-12 col-sm-6 col-md-6 col-lg-4">
-                    <div class="nozari-newsletter style1">
-                        <div class="newsletter-head">
-                            <h3 class="title">Newsletter</h3>
-                        </div>
-                        <div class="newsletter-form-wrap">
-                            <div class="list">
-                                Get notified of new products, limited releases, and more.
-                            </div>
-                            <input type="email" class="input-text email email-newsletter"
-                                   placeholder="Your email letter">
-                            <button class="button btn-submit submit-newsletter">SUBSCRIBE</button>
-                        </div>
-                    </div>
-                    <div class="nozari-socials">
-                        <ul class="socials">
-                            <li>
-                                <a href="#" class="social-item" target="_blank">
-                                    <i class="icon fa fa-facebook"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" class="social-item" target="_blank">
-                                    <i class="icon fa fa-twitter"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" class="social-item" target="_blank">
-                                    <i class="icon fa fa-instagram"></i>
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-sm-12 border-custom">
-                    <span></span>
-                </div>
-            </div>
-            <div class="footer-end">
-                <div class="row">
-                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                        <div class="coppyright">
-                            Copyright © 2019
-                            <a href="#">Nozari</a>
-                            . All rights reserved
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                        <div class="nozari-payment">
-                            <img src="assets/images/payments.png" alt="img">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</footer>
 <div class="footer-device-mobile">
     <div class="wapper">
         <div class="footer-device-mobile-item device-home">

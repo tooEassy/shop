@@ -162,12 +162,6 @@
                                             <label class="text">Password</label>
                                             <input placeholder="Password" title="pass" type="password" class="input-text" name="password">
                                         </p>
-<!--                                        <p class="form-row">-->
-<!--												<span class="inline">-->
-<!--													<input type="checkbox" id="cb2">-->
-<!--													<label for="cb2" class="label-text">I agree to <span>Terms & Conditions</span></label>-->
-<!--												</span>-->
-<!--                                        </p>-->
                                         <p class="">
                                             <input type="submit" class="button-submit" value="REGISTER NOW" name="register">
                                         </p>

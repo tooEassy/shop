@@ -13,15 +13,4 @@ namespace config;
             echo $e->getMessage();
         }
     }
-//       $res = $db->query("SELECT * FROM products WHERE id = 1")->fetchAll();
-//        foreach ($res as $result){
-//            if (gettype($result) == 'array')
-//            {
-//                print_r($result);
-//                foreach ($result as $item) {
-//                    print_r ($item);
-//                }
-//            }
-//        }
-//        return $res[1][1];
 } 

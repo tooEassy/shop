@@ -1,10 +1,14 @@
 <?php
+
 namespace src;
+
 include (ROOT . '/src/exceptions.php');
+
 use src\sessionHasName;
 use src\sessionSetNotStarted;
 use src\sessionStarted;
 use src\sessionDeleteNotStarted;
+
 class Session {
 
     private static $name;

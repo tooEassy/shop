@@ -1,4 +1,5 @@
 <?php
+
 namespace src;
 
 class No_good extends \Exception {}
