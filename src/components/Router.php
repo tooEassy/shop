@@ -28,14 +28,12 @@ class Router
     {
         $uri = $this->getURI();
         foreach ($this->routes as $uriPattern => $path) {
-//            echo "<br> $uriPattern -> $path";
             if (preg_match("~$uriPattern~", $uri)) {
                 $uri = Session::signBlock($uri);
                 $internalRoute = preg_replace("~$uriPattern~", $path, $uri);
                 $segments = explode('/', $internalRoute);
                 $controllerName = array_shift($segments) . 'Controller';
                 $controllerName = ucfirst($controllerName);
-//                echo $controllerName;
                 $controllerName = 'src\controllers' . "\\" . $controllerName;
                 $actionName = array_shift($segments);
 
@@ -45,7 +43,6 @@ class Router
                     include_once($controllerFile);
                 }
                 $controllerObject = new $controllerName;
-//                $result = $controllerObject->$actionName();
                 $result = call_user_func_array(array($controllerObject, $actionName), $parameters);
                 if ($result != null) {
                     break;
