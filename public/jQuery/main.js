@@ -116,6 +116,7 @@ $(document).ready(()=> {
                 $allAttributes.push($checkbox.id.split('cb')[1]);
             });
         }
+        console.log($allAttributes);
         $.ajax({
             url: "http://localhost/category",
             type: "POST",
@@ -123,14 +124,71 @@ $(document).ready(()=> {
                 'checked': $allAttributes,
             },
             success: ($productByAttribute) => {
+                console.log($productByAttribute);
                 let $selectedProducts = JSON.parse($productByAttribute);
-                let $htmlProducts = $(".product-item:first-child").clone();
                 $(".product-item").remove();
-                console.log($selectedProducts);
                 $.each($selectedProducts, ($i, $selectedProduct) => {
-                    $htmlProducts.appendTo(".list-products");
-                    console.log($selectedProduct);
-                    $(".main-image img").attr('src', "/images/" + $selectedProduct['main_image']);
+                    $(".list-products").append(`<li class="product-item product-type-variable col-lg-4 col-md-6 col-sm-6 col-xs-6 col-ts-12 style-1">
+                                <div class="product-inner equal-element">
+                                    <div class="product-top">
+                                        <div class="flash">
+                                                <span class="onnew">
+                                                    <span class="text">
+                                                        new
+                                                    </span>
+                                                </span>
+                                        </div>
+                                    </div>
+                                    <div class="product-thumb">
+                                        <div class="thumb-inner">
+                                            <a href="#" class="">
+                                                <img src="/images/${$selectedProduct['main_image']}" alt="<?= $val->title ?>">
+                                            </a>
+                                            <div class="thumb-group">
+                                                <div class="yith-wcwl-add-to-wishlist">
+                                                    <div class="yith-wcwl-add-button">
+                                                        <a href="">Add to Wishlist</a>
+                                                    </div>
+                                                </div>
+                                                <a href="#" class="button quick-wiew-button">Quick View</a>
+                                                <div class="loop-form-add-to-cart">
+                                                    <button class="single_add_to_cart_button button" value=
+                                                        "<?= $infoCounter++ ?>" name="${$selectedProduct['id']}">Add to cart
+                                                    </button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="product-info">
+                                        <h5 class="product-name product_title">
+                                            <a href="#" class="title-in-info">${$selectedProduct['title']}</a>
+                                        </h5>
+                                            <span>${$selectedProduct['desc']}</span>
+                                        <div class="group-info">
+                                            <div class="stars-rating">
+                                                <div class="star-rating">
+                                                    <span class="star-3"></span>
+                                                </div>
+                                                <div class="count-star">
+                                                    (3)
+                                                </div>
+                                            </div>
+                                            <div class="price">
+                                                <del>
+                                                    $${$selectedProduct['sale_price']}
+                                                </del>
+                                                <ins>
+                                                    $${($selectedProduct['sale_price'] - ($selectedProduct['sale_price']/20))}
+                                                </ins>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>`);
+                });
+                $(".single_add_to_cart_button").click((event) => {
+                    $cartProd.push($(event.target).attr("name"));
+                    localStorage.setItem("Cart",  JSON.stringify($cartProd));
                 });
             }
         });

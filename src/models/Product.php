@@ -35,9 +35,12 @@ class Product
     {
         $objects = array();
         $con = new Connection();
-
-        $getProductByCategory = $con->db->query("select products.* from products left join products_categories 
-on products_categories.product_id = products.id WHERE products_categories.category_id = $categoryId[0]")->fetchAll();
+        $query = "select products.* from products left join products_categories on products_categories.product_id = 
+            products.id WHERE products_categories.category_id = $categoryId[0]";
+        for ($i = 0; $i < count($categoryId); $i++) {
+            if ($i>0) $query .= " OR products_categories.category_id = $categoryId[$i]";
+        }
+        $getProductByCategory = $con->db->query($query)->fetchAll();
         foreach ($getProductByCategory as $row) {
             $newRow = new self();
             $newRow->id = $row['id'];
