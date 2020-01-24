@@ -2,7 +2,6 @@
 
 namespace src\components;
 
-use src\Session;
 use src\controllers\StorageController;
 use src\controllers\AuthorizationController;
 use src\controllers\UserController;
@@ -29,7 +28,6 @@ class Router
         $uri = $this->getURI();
         foreach ($this->routes as $uriPattern => $path) {
             if (preg_match("~$uriPattern~", $uri)) {
-                $uri = Session::signBlock($uri);
                 $internalRoute = preg_replace("~$uriPattern~", $path, $uri);
                 $segments = explode('/', $internalRoute);
                 $controllerName = array_shift($segments) . 'Controller';
