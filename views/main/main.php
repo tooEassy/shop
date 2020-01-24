@@ -135,7 +135,6 @@
                                 </div>
                             </div>
                         </div>
-                    <div class="wrap">
                         <ul class="row list-products auto-clear equal-container product-grid">
                             <?php
                             $infoCounter = 1;
@@ -199,7 +198,6 @@
                             </li>
                             <?php endforeach; ?>
                         </ul>
-                    </div>
                     <div class="pagination clearfix style3">
                         <div class="nav-link">
                             <a href="#" class="page-numbers"><i class="icon fa fa-angle-left"
