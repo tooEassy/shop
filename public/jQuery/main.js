@@ -19,7 +19,7 @@ $(document).ready(()=> {
         let $allPrice = 0;
         $cartProd = JSON.parse(localStorage.getItem('Cart'));
         $.ajax({
-            url: "http://localhost/cart",
+            url: "/cart",
             type: "POST",
             data: {
                 'data': $cartProd,
@@ -89,7 +89,7 @@ $(document).ready(()=> {
             'password':  $password,
         };
         $.ajax({
-           url: "http://localhost/enter",
+           url: "/enter",
            type: "POST",
            data: $loginData,
            success: ($loginInformation) => {
@@ -116,9 +116,8 @@ $(document).ready(()=> {
                 $allAttributes.push($checkbox.id.split('cb')[1]);
             });
         }
-        console.log($allAttributes);
         $.ajax({
-            url: "http://localhost/category",
+            url: "/category",
             type: "POST",
             data: {
                 'checked': $allAttributes,
@@ -186,10 +185,15 @@ $(document).ready(()=> {
                                 </div>
                             </li>`);
                 });
+                let $cartProd = JSON.parse(localStorage.getItem('Cart'));
+                if (!$cartProd) $cartProd = [];
                 $(".single_add_to_cart_button").click((event) => {
                     $cartProd.push($(event.target).attr("name"));
                     localStorage.setItem("Cart",  JSON.stringify($cartProd));
                 });
+            },
+            error: ($msg) => {
+                console.log();
             }
         });
     });

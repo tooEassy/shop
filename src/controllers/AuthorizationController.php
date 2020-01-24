@@ -4,7 +4,6 @@ namespace src\controllers;
 
 use src\models\Authorization;
 use src\models\User;
-use src\Session;
 use src\wrongEmail;
 use src\wrongPassword;
 use src\wrongInfo;
