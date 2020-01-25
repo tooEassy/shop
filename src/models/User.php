@@ -4,15 +4,19 @@
 namespace src\models;
 
 use core\Connection;
+use src\models\ActiveRecord;
 
-class User
+class User extends ActiveRecord
 {
+    public function getTableName()
+    {
+        return $this->tableName = 'users';
+    }
+
     public function getAll()
     {
-        $objects = array();
-        $con = new Connection();
-        $allFromUsers = $con->db->query("SELECT * FROM users ")->fetchAll();
-        foreach ($allFromUsers as $row) {
+        $allUsers = array();
+        foreach ($this->con->db->query("SELECT * FROM " . $this->getTableName())->fetchAll() as $row) {
             $newRow = new self();
             $newRow->id = $row['id'];
             $newRow->firstName = $row['first_name'];
@@ -24,23 +28,18 @@ class User
             $newRow->roleId = $row['role_id'];
             $newRow->created_at = $row['created_at'];
             $newRow->updated_at = $row['updated_at'];
-            $objects[] = $newRow;
+            $allUsers[] = $newRow;
         }
-        return $objects;
+        return $allUsers;
     }
     public function create()
     {
-        $objects = array();
-        $con = new Connection();
-        if(isset($_POST['register'])) {
-            $con = new Connection();
-            $firstName = strip_tags(trim($_POST['firstName']));
-            $lastName = strip_tags(trim($_POST['lastName']));
-            $username = strip_tags(trim($_POST['username']));
-            $email = strip_tags(trim($_POST['email']));
-            $password = strip_tags(trim($_POST['password']));
-            $con->db->query("INSERT INTO `users`(`first_name`, `last_name`, `username`, `password`, `e-mail`, `role_id`) 
-                                                VALUES ('$firstName', '$lastName', '$username', '$password', '$email', 2)");
-        }
+        $firstName = strip_tags(trim($_POST['firstName']));
+        $lastName = strip_tags(trim($_POST['lastName']));
+        $username = strip_tags(trim($_POST['username']));
+        $email = strip_tags(trim($_POST['email']));
+        $password = strip_tags(trim($_POST['password']));
+        $this->con->db->query("INSERT INTO `users`(`first_name`, `last_name`, `username`, `password`, 
+            `e-mail`, `role_id`) VALUES ('$firstName', '$lastName', '$username', '$password', '$email', 2)");
     }
 }

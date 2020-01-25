@@ -2,12 +2,38 @@
 
 
 namespace src\models;
+
 use core\Connection;
 
 class ActiveRecord
 {
-    public static function row()
+    public $con;
+
+    public function __construct()
     {
-        return Connection::connect()->query("SELECT * FROM this->tableName")->fetchAll();
+        $this->con = new Connection();
+    }
+
+    public function getAll()
+    {
+        $objects = array();
+        foreach ($this->con->db->query("SELECT * FROM " . $this->getTableName())->fetchAll() as $item) {
+            $row = new self();
+            $objects[] = $row;
+        }
+        return $objects;
+    }
+
+    public function getById($allId)
+    {
+        $objects = array();
+        foreach ($allId as $id) {
+            foreach ($this->con->db->query("SELECT * FROM " . $this->getTableName() . " WHERE id = " . $id)->
+                fetchAll() as $item) {
+                $row = new self();
+                $objects[] = $row;
+            }
+        }
+        return $objects;
     }
 }

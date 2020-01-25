@@ -7,24 +7,27 @@ use src\models\User;
 use core\wrongEmail;
 use core\wrongPassword;
 use core\wrongInfo;
+use src\models\Category;
+use src\models\Product;
 use core\View;
 
 class AuthorizationController
 {
 
-    public function showForm()
-    {
-        View::render('login.php');
-    }
-
     public function create()
     {
         $creating = new User();
+        $good = new Product();
+        $category = new Category();
         $creating->create();
-        View::render('login.php', [
-            'creating' => $creating,
+        $allProducts = $good->getAll();
+        $allCategories = $category->getAll();
+        View::render('main.php', [
+            'allCategories' => $allCategories,
+            'allProducts' => $allProducts,
         ]);
     }
+
     public function checkForm()
     {
         $userEmail = $_POST['email'];
@@ -32,7 +35,6 @@ class AuthorizationController
 
         try {
             Authorization::checkForm($userEmail, $userPassword);
-            echo ("OK");
         } catch (wrongEmail $e) {
             echo ($e->getMessage());
         } catch (wrongPassword $e) {
@@ -41,4 +43,6 @@ class AuthorizationController
             echo ($e->getMessage());
         }
     }
+
+
 }

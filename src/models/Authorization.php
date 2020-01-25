@@ -17,7 +17,7 @@ class Authorization
         $password = self::getPassword($userEmail);
         $emailExist = $con->db->query("SELECT `e-mail` FROM `users` WHERE `e-mail` = '$userEmail'")->fetchColumn();
         $passwordExist = $con->db->query("SELECT `password` FROM `users` WHERE `password` = '$userPassword'")->fetchColumn();
-        if ($userEmail == $emailExist && $userPassword == $passwordExist) return true;
+        if ($userEmail == $emailExist && $userPassword == $passwordExist) echo ("OK");
         elseif ($userEmail != $emailExist && $userPassword == $passwordExist) throw new wrongEmail('Email ' . $userEmail . ' does not exist.');
         elseif ($userPassword != $passwordExist && $userEmail == $emailExist) throw new wrongPassword('Wrong password.');
         elseif ($userPassword != $passwordExist && $userEmail != $emailExist) throw new wrongInfo('Wrong login information');
