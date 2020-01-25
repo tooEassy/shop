@@ -1,3 +1,4 @@
+<?php include_once(ROOT . '/src/views/includes/header.php'); ?>
 <body class="productsgrid-page">
 <div class="header-device-mobile">
     <div class="wapper">
@@ -396,6 +397,7 @@
 <a href="#" class="backtotop">
     <i class="pe-7s-angle-up"></i>
 </a>
+<?php include_once(ROOT . '/src/views/includes/footer.php'); ?>
 <script src="/assets/js/jquery-1.12.4.min.js"></script>
 <script src="/assets/js/jquery.plugin-countdown.min.js"></script>
 <script src="/assets/js/jquery-countdown.min.js"></script>

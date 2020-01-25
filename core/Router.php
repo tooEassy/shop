@@ -1,10 +1,9 @@
 <?php
 
-namespace src\components;
+namespace core;
 
 use src\controllers\StorageController;
 use src\controllers\AuthorizationController;
-use src\controllers\UserController;
 
 class Router
 {

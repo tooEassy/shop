@@ -3,7 +3,8 @@
 
 namespace src\models;
 
-use config\Connection;
+use core\Connection;
+
 class User
 {
     public function getAll()

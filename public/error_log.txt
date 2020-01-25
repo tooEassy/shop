@@ -21593,3 +21593,830 @@
 [2020-01-24 15:59:54]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
 [2020-01-24 15:59:54]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
 [2020-01-24 15:59:54]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/src/components/Router.php on line 45
+[2020-01-24 16:33:30]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-24 16:33:30]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-24 16:33:30]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-24 16:33:30]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-24 16:33:32]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-24 16:33:32]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-24 16:33:32]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/src/components/Router.php on line 44
+[2020-01-25 14:45:50]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 14:45:50]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 14:45:50]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 14:45:50]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 14:45:52]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 14:45:52]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 14:45:52]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 14:45:52]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 14:45:53]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 14:45:53]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 14:45:53]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/src/components/Router.php on line 44
+[2020-01-25 14:45:54]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 14:45:54]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 14:45:54]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 14:45:54]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 14:45:54]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/src/components/Router.php on line 44
+[2020-01-25 14:45:54]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 14:45:54]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 14:45:54]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/src/components/Router.php on line 44
+[2020-01-25 14:45:55]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 14:45:55]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 14:45:55]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 14:45:55]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/src/components/Router.php on line 44
+[2020-01-25 14:45:56]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 14:45:56]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 14:45:56]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/src/components/Router.php on line 44
+[2020-01-25 14:45:56]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 14:45:56]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 14:45:56]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 14:45:56]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 14:45:56]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/src/components/Router.php on line 44
+[2020-01-25 15:21:36]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 15:21:36]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 15:21:36]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 15:21:36]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 15:21:38]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 15:21:38]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 15:21:38]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/src/components/Router.php on line 44
+[2020-01-25 15:21:38]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 15:21:38]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 15:21:38]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 15:21:38]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 15:21:38]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/src/components/Router.php on line 44
+[2020-01-25 15:21:39]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 15:21:39]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/src/components/Router.php on line 44
+[2020-01-25 15:21:39]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 15:21:39]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 15:21:39]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 15:21:39]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/src/components/Router.php on line 44
+[2020-01-25 15:28:34]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 15:28:34]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 15:28:34]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 15:28:34]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 15:28:34]:  include_once(/home/vagrant/code/Shop/views/includes/header.php): failed to open stream: No such file or directory in /home/vagrant/code/Shop/src/controllers/StorageController.php on line 18
+[2020-01-25 15:28:34]:  include_once(): Failed opening '/home/vagrant/code/Shop/views/includes/header.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/Shop/src/controllers/StorageController.php on line 18
+[2020-01-25 15:28:34]:  include_once(/home/vagrant/code/Shop/views/main/main.php): failed to open stream: No such file or directory in /home/vagrant/code/Shop/src/controllers/StorageController.php on line 19
+[2020-01-25 15:28:34]:  include_once(): Failed opening '/home/vagrant/code/Shop/views/main/main.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/Shop/src/controllers/StorageController.php on line 19
+[2020-01-25 15:28:34]:  include_once(/home/vagrant/code/Shop/views/includes/footer.php): failed to open stream: No such file or directory in /home/vagrant/code/Shop/src/controllers/StorageController.php on line 20
+[2020-01-25 15:28:34]:  include_once(): Failed opening '/home/vagrant/code/Shop/views/includes/footer.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/Shop/src/controllers/StorageController.php on line 20
+[2020-01-25 15:28:35]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 15:28:35]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 15:28:35]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 15:28:35]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 15:28:35]:  include_once(/home/vagrant/code/Shop/views/includes/header.php): failed to open stream: No such file or directory in /home/vagrant/code/Shop/src/controllers/StorageController.php on line 18
+[2020-01-25 15:28:35]:  include_once(): Failed opening '/home/vagrant/code/Shop/views/includes/header.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/Shop/src/controllers/StorageController.php on line 18
+[2020-01-25 15:28:35]:  include_once(/home/vagrant/code/Shop/views/main/main.php): failed to open stream: No such file or directory in /home/vagrant/code/Shop/src/controllers/StorageController.php on line 19
+[2020-01-25 15:28:35]:  include_once(): Failed opening '/home/vagrant/code/Shop/views/main/main.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/Shop/src/controllers/StorageController.php on line 19
+[2020-01-25 15:28:35]:  include_once(/home/vagrant/code/Shop/views/includes/footer.php): failed to open stream: No such file or directory in /home/vagrant/code/Shop/src/controllers/StorageController.php on line 20
+[2020-01-25 15:28:35]:  include_once(): Failed opening '/home/vagrant/code/Shop/views/includes/footer.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/Shop/src/controllers/StorageController.php on line 20
+[2020-01-25 15:30:45]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 15:30:45]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 15:30:45]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 15:30:45]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 15:30:45]:  include_once(/home/vagrant/code/Shop/views/main/main.php): failed to open stream: No such file or directory in /home/vagrant/code/Shop/src/controllers/StorageController.php on line 19
+[2020-01-25 15:30:45]:  include_once(): Failed opening '/home/vagrant/code/Shop/views/main/main.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/Shop/src/controllers/StorageController.php on line 19
+[2020-01-25 15:30:45]:  include_once(/home/vagrant/code/Shop/views/includes/footer.php): failed to open stream: No such file or directory in /home/vagrant/code/Shop/src/controllers/StorageController.php on line 20
+[2020-01-25 15:30:45]:  include_once(): Failed opening '/home/vagrant/code/Shop/views/includes/footer.php' for inclusion (include_path='.:/usr/share/php') in /home/vagrant/code/Shop/src/controllers/StorageController.php on line 20
+[2020-01-25 15:30:48]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 76
+[2020-01-25 15:30:48]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 76
+[2020-01-25 15:30:48]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 76
+[2020-01-25 15:30:48]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 76
+[2020-01-25 15:30:48]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 76
+[2020-01-25 15:30:48]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/src/components/Router.php on line 44
+[2020-01-25 15:30:49]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 76
+[2020-01-25 15:30:49]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 76
+[2020-01-25 15:30:49]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 76
+[2020-01-25 15:30:49]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 76
+[2020-01-25 15:30:49]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 76
+[2020-01-25 15:30:49]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/src/components/Router.php on line 44
+[2020-01-25 15:30:49]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 76
+[2020-01-25 15:30:49]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 76
+[2020-01-25 15:30:49]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 76
+[2020-01-25 15:30:49]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 76
+[2020-01-25 15:30:49]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 76
+[2020-01-25 15:30:49]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/src/components/Router.php on line 44
+[2020-01-25 15:33:30]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 15:33:30]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 15:33:30]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 15:33:30]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 15:33:32]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 15:33:32]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 15:33:32]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/src/components/Router.php on line 44
+[2020-01-25 15:33:33]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 15:33:33]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 15:33:33]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 15:33:33]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/src/components/Router.php on line 44
+[2020-01-25 15:33:34]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 15:33:34]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 15:33:34]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/src/components/Router.php on line 44
+[2020-01-25 15:33:34]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 15:33:34]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 15:33:34]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 15:33:34]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 15:33:34]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/src/components/Router.php on line 44
+[2020-01-25 15:33:35]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 76
+[2020-01-25 15:33:35]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 76
+[2020-01-25 15:33:35]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 76
+[2020-01-25 15:33:35]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 76
+[2020-01-25 15:33:35]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 76
+[2020-01-25 15:33:35]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/src/components/Router.php on line 44
+[2020-01-25 15:33:38]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 76
+[2020-01-25 15:33:38]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 76
+[2020-01-25 15:33:38]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 76
+[2020-01-25 15:33:38]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/src/components/Router.php on line 44
+[2020-01-25 15:33:40]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 76
+[2020-01-25 15:33:40]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 76
+[2020-01-25 15:33:40]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/src/components/Router.php on line 44
+[2020-01-25 15:33:40]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridastorage' in /home/vagrant/code/Shop/src/components/Router.php on line 44
+[2020-01-25 15:58:48]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 15:58:48]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 15:58:48]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 15:58:48]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 15:58:50]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 15:58:50]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 15:58:50]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 15:58:51]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 15:58:51]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 15:58:51]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 15:58:51]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 15:58:51]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 15:58:51]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 15:58:51]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 15:58:52]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 15:58:52]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 15:58:52]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 15:58:52]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 15:58:52]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 15:58:54]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 76
+[2020-01-25 15:58:54]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 76
+[2020-01-25 15:58:54]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 15:58:58]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 76
+[2020-01-25 15:58:58]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 76
+[2020-01-25 15:58:58]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 76
+[2020-01-25 15:58:58]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 15:59:01]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 15:59:01]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 15:59:01]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 15:59:01]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 15:59:05]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridestorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 15:59:07]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridestorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 15:59:11]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 15:59:11]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 15:59:11]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 15:59:11]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 15:59:12]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 15:59:12]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 15:59:12]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 15:59:12]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:00:04]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:00:04]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:00:04]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:00:04]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:00:06]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:00:06]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:00:06]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:00:06]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:00:06]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:00:06]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:00:06]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:00:07]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:00:07]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:00:07]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:00:07]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:00:07]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:00:07]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:00:07]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:00:07]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:00:07]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:00:08]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:00:08]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:00:08]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:00:08]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:00:08]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:00:08]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:00:08]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:00:08]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:21:23]:  Undefined variable: wrongInfo in /home/vagrant/code/Shop/src/views/main/login.php on line 127
+[2020-01-25 16:21:23]:  Undefined variable: wrongEmail in /home/vagrant/code/Shop/src/views/main/login.php on line 127
+[2020-01-25 16:21:23]:  Undefined variable: wrongPassword in /home/vagrant/code/Shop/src/views/main/login.php on line 127
+[2020-01-25 16:21:23]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridrstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:21:58]:  Undefined variable: wrongInfo in /home/vagrant/code/Shop/src/views/main/login.php on line 127
+[2020-01-25 16:21:58]:  Undefined variable: wrongEmail in /home/vagrant/code/Shop/src/views/main/login.php on line 127
+[2020-01-25 16:21:58]:  Undefined variable: wrongPassword in /home/vagrant/code/Shop/src/views/main/login.php on line 127
+[2020-01-25 16:21:58]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridrstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:22:26]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:22:26]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:22:26]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:22:26]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:22:39]:  Undefined variable: wrongInfo in /home/vagrant/code/Shop/src/views/main/login.php on line 127
+[2020-01-25 16:22:39]:  Undefined variable: wrongEmail in /home/vagrant/code/Shop/src/views/main/login.php on line 127
+[2020-01-25 16:22:39]:  Undefined variable: wrongPassword in /home/vagrant/code/Shop/src/views/main/login.php on line 127
+[2020-01-25 16:22:39]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridrstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:33:39]:  Undefined variable: wrongInfo in /home/vagrant/code/Shop/src/views/main/login.php on line 127
+[2020-01-25 16:33:39]:  Undefined variable: wrongEmail in /home/vagrant/code/Shop/src/views/main/login.php on line 127
+[2020-01-25 16:33:39]:  Undefined variable: wrongPassword in /home/vagrant/code/Shop/src/views/main/login.php on line 127
+[2020-01-25 16:33:39]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridrstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:33:53]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:33:53]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:33:53]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:33:53]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:33:57]:  require(/home/vagrant/code/Shop/src/exceptions.php): failed to open stream: No such file or directory in /home/vagrant/code/Shop/core/autoload.php on line 9
+[2020-01-25 16:34:51]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:34:51]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:34:51]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:34:51]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:34:56]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridestorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:35:02]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridestorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:35:09]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridestorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:43:36]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:43:36]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:43:36]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:43:36]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:43:37]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:43:37]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:43:37]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:43:37]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:43:41]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridestorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:43:44]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:43:44]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:43:44]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:43:44]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:43:45]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:43:45]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:43:45]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:43:45]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:43:46]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:43:46]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:43:46]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:43:46]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:43:46]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:43:46]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:43:46]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:43:47]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:43:47]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:43:47]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:43:47]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:43:49]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:43:49]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:43:49]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:43:49]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:43:49]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:43:49]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:43:49]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:43:50]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:43:50]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:43:50]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:43:50]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:43:50]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:43:50]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:43:51]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:43:51]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:43:51]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:43:51]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:43:51]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:43:51]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:43:51]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:43:51]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:43:51]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:43:51]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:52]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:44:52]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:44:52]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:44:52]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:44:54]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:44:54]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:44:54]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:44:54]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:44:54]:  Undefined variable: title in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 16:44:54]:  Undefined property: src\models\Product::$ in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 16:44:54]:  Undefined variable: title in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 16:44:54]:  Undefined property: src\models\Product::$ in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 16:44:54]:  Undefined variable: title in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 16:44:54]:  Undefined property: src\models\Product::$ in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 16:44:54]:  Undefined variable: title in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 16:44:54]:  Undefined property: src\models\Product::$ in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 16:44:54]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:54]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:54]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:54]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:54]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:54]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:54]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:54]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:54]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:54]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:54]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:54]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:54]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:54]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:54]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:54]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:54]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:54]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:54]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:54]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:54]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:54]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:55]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:44:55]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:44:55]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:44:55]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:44:56]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:44:56]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:44:56]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:44:56]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:44:56]:  Undefined variable: title in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 16:44:56]:  Undefined property: src\models\Product::$ in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 16:44:56]:  Undefined variable: title in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 16:44:56]:  Undefined property: src\models\Product::$ in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 16:44:56]:  Undefined variable: title in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 16:44:56]:  Undefined property: src\models\Product::$ in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 16:44:56]:  Undefined variable: title in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 16:44:56]:  Undefined property: src\models\Product::$ in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 16:44:56]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:56]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:56]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:56]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:56]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:56]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:56]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:56]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:56]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:56]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:56]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:56]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:56]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:56]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:56]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:56]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:56]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:56]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:56]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:56]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:56]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:56]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:44:58]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:44:58]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:44:58]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:44:58]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:45:00]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:45:00]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:45:01]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:45:01]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:45:01]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 16:45:01]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:45:02]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:45:02]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:45:02]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:45:02]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:45:02]:  Undefined variable: title in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 16:45:02]:  Undefined property: src\models\Product::$ in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 16:45:02]:  Undefined variable: title in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 16:45:02]:  Undefined property: src\models\Product::$ in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 16:45:02]:  Undefined variable: title in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 16:45:02]:  Undefined property: src\models\Product::$ in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 16:45:02]:  Undefined variable: title in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 16:45:02]:  Undefined property: src\models\Product::$ in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 16:45:02]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:45:02]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:45:02]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:45:02]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:45:02]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:45:02]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:45:02]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:45:02]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:45:02]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:45:02]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:45:02]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:45:02]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:45:02]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:45:02]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:45:02]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:45:02]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:45:02]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:45:02]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:45:02]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:45:02]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:45:02]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:45:02]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 16:45:06]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:45:06]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:45:06]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 16:45:06]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:02:17]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:02:17]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:02:17]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:02:17]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:02:58]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:02:58]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:02:58]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:02:58]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:03:05]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:03:05]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:03:05]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:03:05]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:04:48]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:04:48]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:04:48]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:04:48]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:04:49]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:04:49]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:04:49]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:04:49]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:04:50]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:04:50]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:04:50]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:04:50]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:04:51]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:04:51]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:04:51]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:04:51]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:04:51]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:04:51]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:04:51]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:04:51]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:04:51]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:04:51]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:04:51]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:04:51]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:04:52]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:04:52]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:04:52]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:04:52]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:04:53]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:04:53]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:04:53]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:04:53]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:00]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:00]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:00]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:00]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:01]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:01]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:01]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:01]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:01]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:01]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:01]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:01]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:01]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:01]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:01]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:01]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:01]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:01]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:01]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:01]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:02]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:02]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:02]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:02]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:02]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:02]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:02]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:02]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:02]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:02]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:02]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:02]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:02]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:02]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:02]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:02]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:02]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:02]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:02]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:02]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:10]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:10]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:10]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:10]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:10]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:10]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:10]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:10]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:11]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:11]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:11]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:11]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:11]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:11]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:11]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:11]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:11]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:11]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:11]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:11]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:11]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:11]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:11]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:11]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:12]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:12]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:12]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:12]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:12]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:12]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:12]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:12]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:26]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:26]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:26]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:26]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:27]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:27]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:27]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:06:27]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:07:10]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:07:10]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:07:10]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:07:10]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:07:21]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:07:21]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:07:21]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:07:21]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:07:21]:  Undefined variable: allProducts in /home/vagrant/code/Shop/src/views/main/main.php on line 142
+[2020-01-25 17:07:21]:  Invalid argument supplied for foreach() in /home/vagrant/code/Shop/src/views/main/main.php on line 142
+[2020-01-25 17:07:21]:  Undefined variable: allCategories in /home/vagrant/code/Shop/src/views/main/main.php on line 223
+[2020-01-25 17:07:21]:  Invalid argument supplied for foreach() in /home/vagrant/code/Shop/src/views/main/main.php on line 223
+[2020-01-25 17:07:28]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:07:28]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:07:28]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:07:28]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:07:28]:  Undefined variable: allProducts in /home/vagrant/code/Shop/src/views/main/main.php on line 142
+[2020-01-25 17:07:28]:  Invalid argument supplied for foreach() in /home/vagrant/code/Shop/src/views/main/main.php on line 142
+[2020-01-25 17:07:28]:  Undefined variable: allCategories in /home/vagrant/code/Shop/src/views/main/main.php on line 223
+[2020-01-25 17:07:28]:  Invalid argument supplied for foreach() in /home/vagrant/code/Shop/src/views/main/main.php on line 223
+[2020-01-25 17:07:51]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:07:51]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:07:51]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:07:51]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:07:51]:  Undefined variable: allProducts in /home/vagrant/code/Shop/src/views/main/main.php on line 142
+[2020-01-25 17:07:51]:  Invalid argument supplied for foreach() in /home/vagrant/code/Shop/src/views/main/main.php on line 142
+[2020-01-25 17:07:51]:  Undefined variable: allCategories in /home/vagrant/code/Shop/src/views/main/main.php on line 223
+[2020-01-25 17:07:51]:  Invalid argument supplied for foreach() in /home/vagrant/code/Shop/src/views/main/main.php on line 223
+[2020-01-25 17:07:54]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:07:54]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:07:54]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:07:54]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:07:54]:  Undefined variable: allProducts in /home/vagrant/code/Shop/src/views/main/main.php on line 142
+[2020-01-25 17:07:54]:  Invalid argument supplied for foreach() in /home/vagrant/code/Shop/src/views/main/main.php on line 142
+[2020-01-25 17:07:54]:  Undefined variable: allCategories in /home/vagrant/code/Shop/src/views/main/main.php on line 223
+[2020-01-25 17:07:54]:  Invalid argument supplied for foreach() in /home/vagrant/code/Shop/src/views/main/main.php on line 223
+[2020-01-25 17:11:03]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:11:03]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:11:03]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:11:03]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:11:03]:  Undefined variable: allProducts in /home/vagrant/code/Shop/src/views/main/main.php on line 142
+[2020-01-25 17:11:03]:  Invalid argument supplied for foreach() in /home/vagrant/code/Shop/src/views/main/main.php on line 142
+[2020-01-25 17:12:58]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:12:58]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:12:58]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:12:58]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:13:01]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:01]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:01]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:13:01]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:01]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:01]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:01]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:01]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:13:02]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:02]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:13:02]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:02]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:02]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:02]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:02]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:13:02]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:02]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:13:03]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:03]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:03]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:03]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:03]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:13:04]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:04]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:13:04]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:04]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:04]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:13:05]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:05]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:05]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:05]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:05]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:13:05]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:05]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:05]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:05]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:13:06]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:06]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:13:07]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:07]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:07]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:07]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:07]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:13:07]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:07]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:13:08]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:08]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:08]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:08]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:13:08]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:08]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:08]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:08]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:08]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:13:09]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:09]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:09]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:09]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:13:09]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:09]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:13:10]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:10]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:10]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:10]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:13:10]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:13:16]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridestorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:13:17]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:13:17]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:13:17]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:13:17]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:13:18]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:13:18]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:13:18]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:13:18]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:13:40]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:13:40]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:13:40]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:13:40]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:13:44]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:13:44]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:13:44]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:13:44]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:13:44]:  Undefined variable: allProducts in /home/vagrant/code/Shop/src/views/main/main.php on line 142
+[2020-01-25 17:13:44]:  Invalid argument supplied for foreach() in /home/vagrant/code/Shop/src/views/main/main.php on line 142
+[2020-01-25 17:13:44]:  Undefined variable: allCategories in /home/vagrant/code/Shop/src/views/main/main.php on line 223
+[2020-01-25 17:13:44]:  Invalid argument supplied for foreach() in /home/vagrant/code/Shop/src/views/main/main.php on line 223
+[2020-01-25 17:13:44]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:13:44]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:13:44]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:13:44]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:14:04]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:14:04]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:14:04]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:14:04]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:14:04]:  Undefined variable: allProducts in /home/vagrant/code/Shop/src/views/main/main.php on line 142
+[2020-01-25 17:14:04]:  Invalid argument supplied for foreach() in /home/vagrant/code/Shop/src/views/main/main.php on line 142
+[2020-01-25 17:14:04]:  Undefined variable: allCategories in /home/vagrant/code/Shop/src/views/main/main.php on line 223
+[2020-01-25 17:14:04]:  Invalid argument supplied for foreach() in /home/vagrant/code/Shop/src/views/main/main.php on line 223
+[2020-01-25 17:14:04]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:14:04]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:14:04]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:14:04]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:14:04]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:14:09]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:14:09]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:14:09]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:14:09]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:14:11]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:14:11]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:14:11]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:14:11]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:14:11]:  Undefined variable: allProducts in /home/vagrant/code/Shop/src/views/main/main.php on line 142
+[2020-01-25 17:14:11]:  Invalid argument supplied for foreach() in /home/vagrant/code/Shop/src/views/main/main.php on line 142
+[2020-01-25 17:14:11]:  Undefined variable: allCategories in /home/vagrant/code/Shop/src/views/main/main.php on line 223
+[2020-01-25 17:14:11]:  Invalid argument supplied for foreach() in /home/vagrant/code/Shop/src/views/main/main.php on line 223
+[2020-01-25 17:14:11]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:14:11]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:14:11]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:14:11]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:38]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:15:38]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:15:38]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:15:38]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:15:38]:  Undefined variable: title in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 17:15:38]:  Undefined property: src\models\Product::$ in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 17:15:38]:  Undefined variable: title in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 17:15:38]:  Undefined property: src\models\Product::$ in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 17:15:38]:  Undefined variable: title in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 17:15:38]:  Undefined property: src\models\Product::$ in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 17:15:38]:  Undefined variable: title in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 17:15:38]:  Undefined property: src\models\Product::$ in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 17:15:38]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:38]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:38]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:38]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:38]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:38]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:38]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:38]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:38]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:38]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:38]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:38]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:38]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:38]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:38]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:38]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:38]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:38]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:38]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:38]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:38]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:38]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:41]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:15:41]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:15:41]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:15:41]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:15:42]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:15:42]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:15:42]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:15:42]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:15:42]:  Undefined variable: title in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 17:15:42]:  Undefined property: src\models\Product::$ in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 17:15:42]:  Undefined variable: title in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 17:15:42]:  Undefined property: src\models\Product::$ in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 17:15:42]:  Undefined variable: title in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 17:15:42]:  Undefined property: src\models\Product::$ in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 17:15:42]:  Undefined variable: title in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 17:15:42]:  Undefined property: src\models\Product::$ in /home/vagrant/code/Shop/src/views/main/listProducts.php on line 91
+[2020-01-25 17:15:42]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:42]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:42]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:42]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:42]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:42]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:42]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:42]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:42]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:42]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:42]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:42]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:42]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:42]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:42]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:42]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:42]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:42]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:42]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:42]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:42]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:42]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:43]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProguctListproducts.html' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:43]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridpstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:45]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:15:45]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:15:45]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:15:45]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:15:47]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:15:47]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:15:47]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:15:47]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:15:52]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:15:52]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:15:52]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:15:52]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:15:53]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:15:53]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:53]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:15:53]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:15:53]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:15:53]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:54]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:15:54]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:15:54]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:15:54]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:15:54]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:54]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:15:54]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:15:54]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:15:54]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:54]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:15:54]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:15:54]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:55]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:15:55]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:15:55]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:15:55]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:15:55]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:15:56]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 76
+[2020-01-25 17:15:56]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 76
+[2020-01-25 17:15:56]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 76
+[2020-01-25 17:15:56]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:19:17]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:19:17]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:19:17]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:19:17]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:19:20]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridestorage' in /home/vagrant/code/Shop/core/Router.php on line 43
+[2020-01-25 17:19:21]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:19:21]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:19:21]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:19:21]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:19:22]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:19:22]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:19:22]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:19:22]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 23
+[2020-01-25 17:19:24]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 52
+[2020-01-25 17:19:24]:  call_user_func_array() expects parameter 1 to be a valid callback, class 'src\controllers\StorageController' does not have a method 'getProductsGridcstorage' in /home/vagrant/code/Shop/core/Router.php on line 43

@@ -3,7 +3,7 @@
 
 namespace src\models;
 
-use config\Connection;
+use core\Connection;
 
 class Product
 {

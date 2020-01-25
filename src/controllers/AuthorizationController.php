@@ -4,27 +4,26 @@ namespace src\controllers;
 
 use src\models\Authorization;
 use src\models\User;
-use src\wrongEmail;
-use src\wrongPassword;
-use src\wrongInfo;
+use core\wrongEmail;
+use core\wrongPassword;
+use core\wrongInfo;
+use core\View;
 
 class AuthorizationController
 {
 
     public function showForm()
     {
-        include_once(ROOT . '/views/includes/header.php');
-        include_once(ROOT . '/views/main/login.php');
-        include_once(ROOT . '/views/includes/footer.php');
+        View::render('login.php');
     }
 
     public function create()
     {
         $creating = new User();
         $creating->create();
-        include_once(ROOT . '/views/includes/header.php');
-        include_once(ROOT . '/views/main/login.php');
-        include_once(ROOT . '/views/includes/footer.php');
+        View::render('login.php', [
+            'creating' => $creating,
+        ]);
     }
     public function checkForm()
     {

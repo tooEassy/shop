@@ -2,10 +2,10 @@
 
 namespace src\models;
 
-use src\wrongEmail;
-use src\wrongPassword;
-use src\wrongInfo;
-use config\Connection;
+use core\wrongEmail;
+use core\wrongPassword;
+use core\wrongInfo;
+use core\Connection;
 
 class Authorization
 {
