@@ -1,7 +1,7 @@
 <?php
 namespace mvc;
 
-use src\components\Router;
+use core\Router;
 
 define('ROOT', dirname(__DIR__));
 set_error_handler('mvc\error_handler');
@@ -13,8 +13,8 @@ function error_handler($errno, $errstr, $errfile, $errline) {
     fclose($f);
 }
 
-require_once (ROOT.'/src/components/autoload.php');
-require_once (ROOT.'/src/components/Router.php');
+require_once(ROOT . '/core/autoload.php');
+require_once(ROOT . '/core/Router.php');
 
 $routes = new Router();
 $routes->run();

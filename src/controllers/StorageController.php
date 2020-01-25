@@ -5,6 +5,7 @@ namespace src\controllers;
 use PHPUnit\Util\Log\JSON;
 use src\models\Category;
 use src\models\Product;
+use core\View;
 
 class StorageController
 {
@@ -15,18 +16,19 @@ class StorageController
         $category = new Category();
         $allProducts = $good->getAll();
         $allCategories = $category->getAll();
-        include_once(ROOT . '/views/includes/header.php');
-        include_once(ROOT . '/views/main/main.php');
-        include_once(ROOT . '/views/includes/footer.php');
+        View::render('main.php', [
+            'allCategories' => $allCategories,
+            'allProducts' => $allProducts,
+        ]);
     }
 
     public function getProguctList()
     {
         $good = new Product();
         $all = $good->getAll();
-        include_once(ROOT . '/views/includes/header.php');
-        include_once(ROOT . '/views/main/listProducts.php');
-        include_once(ROOT . '/views/includes/footer.php');
+        View::render('listProducts.php', [
+            'all' => $all,
+        ]);
     }
 
     public function getProductByCategory()
