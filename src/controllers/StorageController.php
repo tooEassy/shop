@@ -38,6 +38,15 @@ class StorageController
         echo json_encode($categoryProducts);
     }
 
+    public function getProductByTitle()
+    {
+        $allProducts = new Product();
+        $productByTitle = $allProducts->getByTitle($_POST['search']);
+        View::render('main.php', [
+            'allProducts' => $productByTitle,
+        ]);
+    }
+
     public function cart()
     {
         $allCart = new Product();

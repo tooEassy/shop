@@ -1,4 +1,4 @@
-<?php include_once(ROOT . '/src/views/includes/header.php'); ?>
+    <?php include_once(ROOT . '/src/views/includes/header.php'); ?>
 <body class="productsgrid-page">
 <div class="header-device-mobile">
     <div class="wapper">

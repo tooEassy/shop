@@ -5,14 +5,17 @@ namespace src\models;
 
 use core\Connection;
 
-class Product
+class Product extends ActiveRecord
 {
+    public function getTableName()
+    {
+        return $this->tableName = 'products';
+    }
+
     public function getAll()
     {
-        $objects = array();
-        $con = new Connection();
-        $allFromProduct = $con->db->query("SELECT * FROM products ")->fetchAll();
-        foreach ($allFromProduct as $row) {
+        $allProducts = array();
+        foreach ($this->con->db->query("SELECT * FROM " . $this->getTableName())->fetchAll() as $row) {
             $newRow = new self();
             $newRow->id = $row['id'];
             $newRow->title = $row['title'];
@@ -25,10 +28,10 @@ class Product
             $newRow->brand_id = $row['brand_id'];
             $newRow->created_at = $row['created_at'];
             $newRow->updated_at = $row['updated_at'];
-            $objects[] = $newRow;
+            $allProducts[] = $newRow;
 
         }
-        return $objects;
+        return $allProducts;
     }
 
     public function getByCategory($categoryId)
@@ -61,11 +64,32 @@ class Product
 
     public function getById($allId)
     {
-        $objects = array();
-        $con = new Connection();
+        $productsById = array();
         foreach ($allId as $id) {
-            $product = $con->db->query("SELECT * FROM products WHERE id = '$id'")->fetchAll();
-            foreach ($product as $row) {
+            foreach ($this->con->db->query("SELECT * FROM " . $this->getTableName() . " WHERE id = " . $id)->
+            fetchAll() as $row) {
+                $newRow = new self();
+                $newRow->id = $row['id'];
+                $newRow->title = $row['title'];
+                $newRow->desc = $row['desc'];
+                $newRow->sale_price = $row['sale_price'];
+                $newRow->vendor_code = $row['vendor_code'];
+                $newRow->available = $row['available'];
+                $newRow->sail = $row['sail'];
+                $newRow->main_image = $row['main_image'];
+                $newRow->brand_id = $row['brand_id'];
+                $newRow->created_at = $row['created_at'];
+                $newRow->updated_at = $row['updated_at'];
+                $productsById[] = $newRow;
+            }
+        }
+        return $productsById;
+    }
+    public function getByTitle($title)
+    {
+        $productsByTitle = array();
+        foreach ($this->con->db->query("SELECT * FROM " . $this->getTableName() . " WHERE title = '$title'")->
+            fetchAll() as $row) {
             $newRow = new self();
             $newRow->id = $row['id'];
             $newRow->title = $row['title'];
@@ -78,9 +102,8 @@ class Product
             $newRow->brand_id = $row['brand_id'];
             $newRow->created_at = $row['created_at'];
             $newRow->updated_at = $row['updated_at'];
-            $objects[] = $newRow;
+            $productsByTitle[] = $newRow;
         }
-        }
-        return $objects;
+        return $productsByTitle;
     }
 }
