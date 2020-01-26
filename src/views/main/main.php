@@ -1,83 +1,5 @@
-    <?php include_once(ROOT . '/src/views/includes/header.php'); ?>
+<?php include_once(ROOT . '/src/views/includes/header.php'); ?>
 <body class="productsgrid-page">
-<div class="header-device-mobile">
-    <div class="wapper">
-        <div class="item mobile-logo">
-            <div class="logo">
-                <a href="#">
-                    <img src="assets/images/logo.png" alt="img">
-                </a>
-            </div>
-        </div>
-        <div class="item item mobile-search-box has-sub">
-            <a href="#">
-						<span class="icon">
-							<i class="fa fa-search" aria-hidden="true"></i>
-						</span>
-            </a>
-            <div class="block-sub">
-                <a href="#" class="close">
-                    <i class="fa fa-times" aria-hidden="true"></i>
-                </a>
-                <div class="header-searchform-box">
-                    <form class="header-searchform">
-                        <div class="searchform-wrap">
-                            <input type="text" class="search-input" placeholder="Enter keywords to search...">
-                            <input type="submit" class="submit button" value="Search">
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div>
-        <div class="item mobile-settings-box has-sub">
-            <a href="#">
-						<span class="icon">
-							<i class="fa fa-cog" aria-hidden="true"></i>
-						</span>
-            </a>
-            <div class="block-sub">
-                <a href="#" class="close">
-                    <i class="fa fa-times" aria-hidden="true"></i>
-                </a>
-                <div class="block-sub-item">
-                    <h5 class="block-item-title">Currency</h5>
-                    <form class="currency-form nozari-language">
-                        <ul class="nozari-language-wrap">
-                            <li class="active">
-                                <a href="#">
-											<span>
-												English (USD)
-											</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-											<span>
-												French (EUR)
-											</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-											<span>
-												Japanese (JPY)
-											</span>
-                                </a>
-                            </li>
-                        </ul>
-                    </form>
-                </div>
-            </div>
-        </div>
-        <div class="item menu-bar">
-            <a class=" mobile-navigation  menu-toggle" href="#">
-                <span></span>
-                <span></span>
-                <span></span>
-            </a>
-        </div>
-    </div>
-</div>
 <div class="main-content main-content-product left-sidebar">
     <div class="container">
         <div class="row">
@@ -115,10 +37,7 @@
                                 <span class="title">Sort by</span>
                                 <select data-placeholder="Price: Low to High" class="chosen-select">
                                     <option value="1">Price: Low to High</option>
-                                    <option value="2">Sort by popularity</option>
-                                    <option value="3">Sort by average rating</option>
-                                    <option value="4">Sort by newness</option>
-                                    <option value="5">Sort by price: low to high</option>
+                                    <option value="5">Price: High to Low</option>
                                 </select>
                             </form>
                             <div class="grid-view-mode">
@@ -190,7 +109,7 @@
                                                     $<?= $val->sale_price ?>
                                                 </del>
                                                 <ins>
-                                                    $<?= (($val->sale_price) -20) ?>
+                                                    $<?= intval(($val->sale_price)/1.5) ?>.00
                                                 </ins>
                                             </div>
                                         </div>
@@ -274,29 +193,6 @@
                                 </li>
                             </ul>
                         </div>
-                        <div class="widget widget_filter_size">
-                            <h4 class="widgettitle">Size</h4>
-                            <ul class="list-size">
-                                <li>
-                                    <a href="#">xs</a>
-                                </li>
-                                <li>
-                                    <a href="#">s</a>
-                                </li>
-                                <li class="active">
-                                    <a href="#">m</a>
-                                </li>
-                                <li>
-                                    <a href="#">l</a>
-                                </li>
-                                <li>
-                                    <a href="#">xl</a>
-                                </li>
-                                <li>
-                                    <a href="#">xxl</a>
-                                </li>
-                            </ul>
-                        </div>
                         <div class="widget widget-color">
                             <h4 class="widgettitle">
                                 Color
@@ -310,44 +206,6 @@
                                 <a href="#" class="color6"></a>
                                 <a href="#" class="color7"></a>
                             </div>
-                        </div>
-                        <div class="widget widget-tags">
-                            <h3 class="widgettitle">
-                                Popular Tags
-                            </h3>
-                            <ul class="tagcloud">
-                                <li class="tag-cloud-link">
-                                    <a href="#">Fashion</a>
-                                </li>
-                                <li class="tag-cloud-link">
-                                    <a href="#">Trousers</a>
-                                </li>
-                                <li class="tag-cloud-link">
-                                    <a href="#">Hat</a>
-                                </li>
-                                <li class="tag-cloud-link active">
-                                    <a href="#">Accessories</a>
-                                </li>
-                                <li class="tag-cloud-link">
-                                    <a href="#">Hot</a>
-                                </li>
-                                <li class="tag-cloud-link">
-                                    <a href="#">Bags</a>
-                                </li>
-                                <li class="tag-cloud-link">
-                                    <a href="#">Shoes</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="widget newsletter-widget">
-                        <div class="newsletter-form-wrap ">
-                            <h3 class="title">Subscribe to Our Newsletter</h3>
-                            <div class="subtitle">
-                                More special Deals, Events & Promotions
-                            </div>
-                            <input type="email" class="email" placeholder="Your email letter">
-                            <button type="submit" class="button submit-newsletter">Subscribe</button>
                         </div>
                     </div>
                 </div>

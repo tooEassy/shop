@@ -12,28 +12,6 @@ class Product extends ActiveRecord
         return $this->tableName = 'products';
     }
 
-    public function getAll()
-    {
-        $allProducts = array();
-        foreach ($this->con->db->query("SELECT * FROM " . $this->getTableName())->fetchAll() as $row) {
-            $newRow = new self();
-            $newRow->id = $row['id'];
-            $newRow->title = $row['title'];
-            $newRow->desc = $row['desc'];
-            $newRow->sale_price = $row['sale_price'];
-            $newRow->vendor_code = $row['vendor_code'];
-            $newRow->available = $row['available'];
-            $newRow->sail = $row['sail'];
-            $newRow->main_image = $row['main_image'];
-            $newRow->brand_id = $row['brand_id'];
-            $newRow->created_at = $row['created_at'];
-            $newRow->updated_at = $row['updated_at'];
-            $allProducts[] = $newRow;
-
-        }
-        return $allProducts;
-    }
-
     public function getByCategory($categoryId)
     {
         $objects = array();
@@ -62,33 +40,10 @@ class Product extends ActiveRecord
         return $objects;
     }
 
-    public function getById($allId)
-    {
-        $productsById = array();
-        foreach ($allId as $id) {
-            foreach ($this->con->db->query("SELECT * FROM " . $this->getTableName() . " WHERE id = " . $id)->
-            fetchAll() as $row) {
-                $newRow = new self();
-                $newRow->id = $row['id'];
-                $newRow->title = $row['title'];
-                $newRow->desc = $row['desc'];
-                $newRow->sale_price = $row['sale_price'];
-                $newRow->vendor_code = $row['vendor_code'];
-                $newRow->available = $row['available'];
-                $newRow->sail = $row['sail'];
-                $newRow->main_image = $row['main_image'];
-                $newRow->brand_id = $row['brand_id'];
-                $newRow->created_at = $row['created_at'];
-                $newRow->updated_at = $row['updated_at'];
-                $productsById[] = $newRow;
-            }
-        }
-        return $productsById;
-    }
     public function getByTitle($title)
     {
         $productsByTitle = array();
-        foreach ($this->con->db->query("SELECT * FROM " . $this->getTableName() . " WHERE title = '$title'")->
+        foreach ($this->con->db->query("SELECT * FROM " . $this->getTableName() . " WHERE title LIKE '%$title%'")->
             fetchAll() as $row) {
             $newRow = new self();
             $newRow->id = $row['id'];
