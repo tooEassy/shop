@@ -41,8 +41,11 @@ class StorageController
     public function getProductByTitle()
     {
         $allProducts = new Product();
+        $category = new Category();
+        $allCategories = $category->getAll();
         $productByTitle = $allProducts->getByTitle($_POST['search']);
         View::render('main.php', [
+            'allCategories' => $allCategories,
             'allProducts' => $productByTitle,
         ]);
     }

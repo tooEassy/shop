@@ -19,6 +19,9 @@ class ActiveRecord
         $objects = array();
         foreach ($this->con->db->query("SELECT * FROM " . $this->getTableName())->fetchAll() as $item) {
             $row = new self();
+            foreach ($item as $key => $value) {
+                $row->$key = $value;
+            }
             $objects[] = $row;
         }
         return $objects;
@@ -31,6 +34,9 @@ class ActiveRecord
             foreach ($this->con->db->query("SELECT * FROM " . $this->getTableName() . " WHERE id = " . $id)->
                 fetchAll() as $item) {
                 $row = new self();
+                foreach ($item as $key => $value) {
+                    $row->$key = $value;
+                }
                 $objects[] = $row;
             }
         }
