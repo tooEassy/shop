@@ -15,7 +15,8 @@ $(document).ready(()=> {
         $cartProd.push($(event.target).attr("name"));
         localStorage.setItem("Cart",  JSON.stringify($cartProd));
     });
-    $(".shopcart-icon").click((event) => {
+    function cartItems()
+    {
         let $allPrice = 0;
         $cartProd = JSON.parse(localStorage.getItem('Cart'));
         $.ajax({
@@ -28,45 +29,46 @@ $(document).ready(()=> {
                 let $cartProducts = JSON.parse($cartItem);
                 let $cartProductsHtml;
                 $.each($cartProducts, ($i, $cartProduct) => {
-                        $allPrice += parseInt($cartProduct['sale_price']);
-                        $cartProductsHtml += `<li class="product-cart mini_cart_item product-cart-${$cartProduct['id']}" >
-                                                <a href="#" class="product-media">
-                                                <img src="/images/${$cartProduct['main_image']}" alt="img">
-                                                </a>
-                                                <div class="product-details">
-                                                <h5 class="product-name">
-                                                <a href="#">${$cartProduct['title']}</a>
-                                            </h5>
-                                            <div class="variations">
-                                                <span class="attribute_color">
-                                                <a href="#">Black</a>
-                                                </span>
-                                                ,
-                                            <span class="attribute_size">
-                                                <a href="#">300ml</a>
+                    $allPrice += parseInt($cartProduct['sale_price']);
+                    $cartProductsHtml += `<li class="product-cart mini_cart_item product-cart-${$cartProduct['id']}" >
+                                            <a href="#" class="product-media">
+                                            <img src="/images/${$cartProduct['main_image']}" alt="img">
+                                            </a>
+                                            <div class="product-details">
+                                            <h5 class="product-name">
+                                            <a href="#">${$cartProduct['title']}</a>
+                                        </h5>
+                                        <div class="variations">
+                                            <span class="attribute_color">
+                                            <a href="#">Black</a>
                                             </span>
+                                            ,
+                                        <span class="attribute_size">
+                                            <a href="#">300ml</a>
+                                        </span>
+                                        </div>
+                                        <span class="product-price">
+                                            <span class="price">
+                                            <span>${$cartProduct['sale_price']}</span>
+                                            </span>
+                                            </span>
+                                            <span class="product-quantity">
+                                            x${$productQuont}
+                                            </span>
+                                            <div class="product-remove" data-id="${$cartProduct['id']}">
+                                                <i class="fa fa-trash-o" aria-hidden="true"></i>
                                             </div>
-                                            <span class="product-price">
-                                                <span class="price">
-                                                <span>${$cartProduct['sale_price']}</span>
-                                                </span>
-                                                </span>
-                                                <span class="product-quantity">
-                                                x${$productQuont}
-                                                </span>
-                                                <div class="product-remove" data-id="${$cartProduct['id']}">
-                                                    <i class="fa fa-trash-o" aria-hidden="true"></i>
-                                                </div>
-                                            </div>
-                                            </li>`;
+                                        </div>
+                                        </li>`;
                     $(".total-price").html(
                         `<span class="Price-amount">
-                        ${parseInt($allPrice)}
-                    </span>`
+                    ${parseInt($allPrice)}
+                </span>`
                     );
                 });
 
                 $(".minicart-items").html($cartProductsHtml);
+                $(".list-product-order").html($cartProductsHtml);
                 $(".product-remove").click(function(event) {
                     let $cartProducts = JSON.parse(localStorage.getItem('Cart'));
                     let $removeItem = $(event.currentTarget).data('id');
@@ -80,7 +82,9 @@ $(document).ready(()=> {
 
             },
         });
-    });
+    }
+    $(".shopcart-icon").click(cartItems);
+    $(".your-order").ready(cartItems);
     $(".loginButton").click((event) => {
         let $email = $(".input-email").val();
         let $password = $(".input-password").val();

@@ -102,14 +102,10 @@
 
                                             </span>
                                     </div>
-                                    <div class="actions">
-                                        <a class="button button-viewcart" href="shoppingcart.html">
-                                            <span>View Bag</span>
-                                        </a>
-                                        <a href="checkout.html" class="button button-checkout">
-                                            <span>Checkout</span>
-                                        </a>
-                                    </div>
+                                    <form action="checkout" method="post">
+                                    <input type="submit" class="button button-checkout" value="checkout">
+                                    </form>
+                                    <p></p>
                                 </div>
                             </div>
                         </div>
