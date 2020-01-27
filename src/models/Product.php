@@ -70,7 +70,6 @@ class Product extends ActiveRecord
     public function getByPage($offset, $pageNum)
     {
         $objects = array();
-        var_dump("SELECT * FROM products LIMIT $offset, $pageNum");
         $getProductByPage = $this->con->db->query("SELECT * FROM products LIMIT $offset, $pageNum")->
             fetchAll();
         foreach ($getProductByPage as $row) {
