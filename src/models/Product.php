@@ -61,4 +61,33 @@ class Product extends ActiveRecord
         }
         return $productsByTitle;
     }
+
+    public function getProductQuant()
+    {
+        return (intval($this->con->db->query('SELECT COUNT(id) FROM products')->fetchColumn()));
+    }
+
+    public function getByPage($offset, $pageNum)
+    {
+        $objects = array();
+        var_dump("SELECT * FROM products LIMIT $offset, $pageNum");
+        $getProductByPage = $this->con->db->query("SELECT * FROM products LIMIT $offset, $pageNum")->
+            fetchAll();
+        foreach ($getProductByPage as $row) {
+            $newRow = new self();
+            $newRow->id = $row['id'];
+            $newRow->title = $row['title'];
+            $newRow->desc = $row['desc'];
+            $newRow->sale_price = $row['sale_price'];
+            $newRow->vendor_code = $row['vendor_code'];
+            $newRow->available = $row['available'];
+            $newRow->sail = $row['sail'];
+            $newRow->main_image = $row['main_image'];
+            $newRow->brand_id = $row['brand_id'];
+            $newRow->created_at = $row['created_at'];
+            $newRow->updated_at = $row['updated_at'];
+            $objects[] = $newRow;
+        }
+        return $objects;
+    }
 }
