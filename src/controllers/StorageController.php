@@ -6,19 +6,27 @@ use PHPUnit\Util\Log\JSON;
 use src\models\Category;
 use src\models\Product;
 use core\View;
+use src\components\Pagination;
 
 class StorageController
 {
 
     public function getProductsGrid()
     {
-        $good = new Product();
+        $product = new Product();
         $category = new Category();
-        $allProducts = $good->getAll();
+        $productPerPage = 12;
         $allCategories = $category->getAll();
+        $pagination = new Pagination();
+        if(array_key_exists('page', $_POST)) $pageNum = $_POST['page'];
+        else $pageNum = 1;
+        $offset = ($pageNum - 1) * $productPerPage;
+        $allProducts = $product->getByPage($offset, $productPerPage);
+        $pages = $pagination->pages($pageNum, $productPerPage);
         View::render('main.php', [
             'allCategories' => $allCategories,
             'allProducts' => $allProducts,
+            'pages' => $pages,
         ]);
     }
 
