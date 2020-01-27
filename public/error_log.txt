@@ -2553,3 +2553,8 @@
 [2020-01-27 10:36:03]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 84
 [2020-01-27 10:36:03]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 84
 [2020-01-27 10:36:04]:  Undefined variable: pages in /home/vagrant/code/Shop/src/components/Pagination.php on line 22
+[2020-01-27 10:48:47]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 84
+[2020-01-27 10:48:47]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 84
+[2020-01-27 10:48:47]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 84
+[2020-01-27 10:48:47]:  Undefined index: sail in /home/vagrant/code/Shop/src/models/Product.php on line 84
+[2020-01-27 10:48:47]:  Undefined variable: pages in /home/vagrant/code/Shop/src/components/Pagination.php on line 22
