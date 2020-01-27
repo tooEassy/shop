@@ -7,5 +7,6 @@ return array(
     'register' => 'authorization/create',
     'category' => 'storage/getProductByCategory',
     'search' => 'storage/getProductByTitle',
+    'checkout' => 'order/checkout',
     '' => 'storage/getProductsGrid',
 );

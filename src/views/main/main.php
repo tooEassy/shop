@@ -146,20 +146,6 @@
                                 <?php endforeach; ?>
                             </ul>
                         </div>
-                        <div class="widget widget_filter_price">
-                            <h4 class="widgettitle">
-                                Price
-                            </h4>
-                            <div class="price-slider-wrapper">
-                                <div data-label-reasult="Range:" data-min="0" data-max="3000" data-unit="$"
-                                     class="slider-range-price " data-value-min="0" data-value-max="1000">
-                                </div>
-                                <div class="price-slider-amount">
-                                    <span class="from">$45</span>
-                                    <span class="to">$215</span>
-                                </div>
-                            </div>
-                        </div>
                         <div class="widget widget-brand">
                             <h3 class="widgettitle">Brand</h3>
                             <ul class="list-brand">
@@ -188,20 +174,6 @@
                                     <label for="cb12" class="label-text">Bags</label>
                                 </li>
                             </ul>
-                        </div>
-                        <div class="widget widget-color">
-                            <h4 class="widgettitle">
-                                Color
-                            </h4>
-                            <div class="list-color">
-                                <a href="#" class="color1"></a>
-                                <a href="#" class="color2 "></a>
-                                <a href="#" class="color3 active"></a>
-                                <a href="#" class="color4"></a>
-                                <a href="#" class="color5"></a>
-                                <a href="#" class="color6"></a>
-                                <a href="#" class="color7"></a>
-                            </div>
                         </div>
                     </div>
                 </div>
