@@ -14,6 +14,7 @@ $(document).ready(()=> {
     $(".single_add_to_cart_button").click((event) => {
         $cartProd.push($(event.target).attr("name"));
         localStorage.setItem("Cart",  JSON.stringify($cartProd));
+        $(".count").html($productQuont++);
     });
     function cartItems()
     {
@@ -53,7 +54,7 @@ $(document).ready(()=> {
                                             </span>
                                             </span>
                                             <span class="product-quantity">
-                                            x${$productQuont}
+                                            x${1}
                                             </span>
                                             <div class="product-remove" data-id="${$cartProduct['id']}">
                                                 <i class="fa fa-trash-o" aria-hidden="true"></i>
@@ -72,6 +73,7 @@ $(document).ready(()=> {
                 $(".product-remove").click(function(event) {
                     let $cartProducts = JSON.parse(localStorage.getItem('Cart'));
                     let $removeItem = $(event.currentTarget).data('id');
+                    $(".count").html($productQuont--);
                     $cartProducts = $.grep($cartProducts, ($product) => {
                         return $product != $removeItem;
                     });
@@ -79,7 +81,7 @@ $(document).ready(()=> {
                     $(".product-cart-" + $removeItem).remove();
                     localStorage.setItem("Cart",  JSON.stringify($cartProducts));
                 });
-
+                localStorage.setItem('allPrice', $allPrice);
             },
         });
     }
@@ -96,16 +98,21 @@ $(document).ready(()=> {
            url: "/enter",
            type: "POST",
            data: $loginData,
-           success: ($loginInformation) => {
-               if ($loginInformation == "OK") {
+           success: ($login) => {
+               let $loginInformation = JSON.parse($login);
+               if ($loginInformation['message'] == "OK") {
                    localStorage.setItem('loginInfo',
                        JSON.stringify($loginData),
                    );
-                   $(".header-user-links>li:first-child>span").html("Hey, " + $loginData['email'] + " | <a class='logout' href='/'>Log out</a>");
+                   localStorage.setItem('Id',
+                       $loginInformation['id'],
+                   );
+                   $(".header-user-links>li:first-child>span").html("Hey, " + $loginData['email'] + " | <a " +
+                       "class='logout' href='/'>Log out</a>");
                    $(".block-account").remove();
                }
                else {
-                   $(".errorBlock").html($loginInformation);
+                   $(".errorBlock").html($loginInformation['message']);
                }
             },
         });
@@ -200,6 +207,21 @@ $(document).ready(()=> {
                 console.log();
             }
         });
+    });
+    $(".order").append(`
+                <input type="hidden" value="${localStorage.getItem('allPrice')}" name="allPrice" class="allPrice">
+                <input type="hidden" value="${localStorage.getItem('Id')}" name="userId" class="userId">
+            `);
+    $(".checkout").click((event) => {
+        event.preventDefault();
+        if (localStorage.getItem('loginInfo')) {
+            $(".checkout").submit();
+        }
+        else {
+           setTimeout(() =>{
+               $(".flaticon-user").click();
+           }, 100);
+        }
     });
 });
 

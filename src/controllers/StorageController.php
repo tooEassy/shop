@@ -15,7 +15,7 @@ class StorageController
     {
         $product = new Product();
         $category = new Category();
-        $productPerPage = 12;
+        $productPerPage = 3;
         $allCategories = $category->getAll();
         $pagination = new Pagination();
         if(array_key_exists('page', $_POST)) $pageNum = $_POST['page'];
