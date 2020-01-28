@@ -15,12 +15,18 @@ class Authorization
         $con = new Connection();
         $email = self::getEmail($userPassword);
         $password = self::getPassword($userEmail);
-        $emailExist = $con->db->query("SELECT `e-mail` FROM `users` WHERE `e-mail` = '$userEmail'")->fetchColumn();
+        $userData = $con->db->query("SELECT `id`, `e-mail` FROM `users` WHERE `e-mail` = '$userEmail'")->fetchAll()[0];
         $passwordExist = $con->db->query("SELECT `password` FROM `users` WHERE `password` = '$userPassword'")->fetchColumn();
-        if ($userEmail == $emailExist && $userPassword == $passwordExist) echo ("OK");
-        elseif ($userEmail != $emailExist && $userPassword == $passwordExist) throw new wrongEmail('Email ' . $userEmail . ' does not exist.');
-        elseif ($userPassword != $passwordExist && $userEmail == $emailExist) throw new wrongPassword('Wrong password.');
-        elseif ($userPassword != $passwordExist && $userEmail != $emailExist) throw new wrongInfo('Wrong login information');
+        if ($userEmail == $userData['e-mail'] && $userPassword == $passwordExist) return json_encode([
+            'id' => $userData['id'],
+            'message' => 'OK'
+        ]);
+        elseif ($userEmail != $userData['e-mail'] && $userPassword == $passwordExist) throw new wrongEmail(
+            'Email ' . $userEmail . ' does not exist.');
+        elseif ($userPassword != $passwordExist && $userEmail == $userData['e-mail']) throw new wrongPassword
+            ('Wrong password.');
+        elseif ($userPassword != $passwordExist && $userEmail != $userData['e-mail']) throw new wrongInfo
+            ('Wrong login information');
     }
 
     public static function getEmail($password)

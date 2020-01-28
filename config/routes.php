@@ -8,5 +8,6 @@ return array(
     'category' => 'storage/getProductByCategory',
     'search' => 'storage/getProductByTitle',
     'checkout' => 'order/checkout',
+    'order' => 'order/createOrder',
     '' => 'storage/getProductsGrid',
 );

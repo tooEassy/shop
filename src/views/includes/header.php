@@ -87,8 +87,8 @@
                             <a href="javascript:void(0);" class="shopcart-icon" data-nozari="nozari-dropdown">
                                 Cart
                                 <span class="count">
-                                    0
-                                    </span>
+
+                                </span>
                             </a>
                             <div class="shopcart-description nozari-submenu">
                                 <div class="content-wrap">
@@ -102,7 +102,7 @@
 
                                             </span>
                                     </div>
-                                    <form action="checkout" method="post">
+                                    <form action="checkout" method="post" class="checkout">
                                     <input type="submit" class="button button-checkout" value="checkout">
                                     </form>
                                     <p></p>

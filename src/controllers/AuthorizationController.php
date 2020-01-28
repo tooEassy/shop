@@ -34,13 +34,19 @@ class AuthorizationController
         $userPassword = $_POST['password'];
 
         try {
-            Authorization::checkForm($userEmail, $userPassword);
+            echo Authorization::checkForm($userEmail, $userPassword);
         } catch (wrongEmail $e) {
-            echo ($e->getMessage());
+            echo json_encode([
+                'message' => $e -> getMessage(),
+            ]);
         } catch (wrongPassword $e) {
-            echo ($e->getMessage());
+            echo json_encode([
+                'message' => $e -> getMessage(),
+            ]);
         } catch (wrongInfo $e) {
-            echo ($e->getMessage());
+            echo json_encode([
+                'message' => $e -> getMessage(),
+            ]);
         }
     }
 
