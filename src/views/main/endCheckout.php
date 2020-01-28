@@ -12,7 +12,9 @@ Aenean dui mi, tempus non volutpat eget, molestie a orci.
 Nullam eget sem et eros laoreet rutrum.
 Quisque sem ante, feugiat quis lorem in.
         </div>
-        <a href="#" class="button btn-return">Return to Store</a>
+        <form action="/" method="post">
+        <input class="button btn-return" type="submit" value="Return to Store">
+        </form>
     </div>
 </div>
 <?php include_once(ROOT . '/src/views/includes/footer.php'); ?>
